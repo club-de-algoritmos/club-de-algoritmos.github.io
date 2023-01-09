@@ -26,7 +26,18 @@ lunr:
   search_within_pages: true
 
 defaults:
-  # _posts
+  # Pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      read_time: true
+      sidebar:
+        - image: /assets/images/logo.png
+          image_alt: "Logo"
+          nav: docs
+  # Posts
   - scope:
       path: ""
       type: posts
@@ -43,14 +54,8 @@ atom_feed:
 #  google:
 #    tracking_id: "UA-1234567-8"
 
-#footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/mmistakes"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/mmistakes"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/mmistakes"
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/club-de-algoritmos"
