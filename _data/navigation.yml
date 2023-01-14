@@ -4,27 +4,14 @@ main:
   - title: "Discord"
     url: /discord
 
-docs:
-  - title: Getting Started
+pages:
+  - title: "¿Quiénes somos?"
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Misión y visión"
+        url: /mision-vision
+      - title: "Logros"
+        url: /logros
+      - title: "Miembros"
+        url: /miembros
+      - title: "Preguntas frecuentes"
+        url: /faq

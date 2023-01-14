@@ -36,7 +36,7 @@ defaults:
       sidebar:
         - image: /assets/images/logo.png
           image_alt: "Logo"
-          nav: docs
+          nav: pages
   # Posts
   - scope:
       path: "/blog"
