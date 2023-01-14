@@ -39,7 +39,7 @@ defaults:
           nav: docs
   # Posts
   - scope:
-      path: ""
+      path: "/blog"
       type: posts
     values:
       layout: single
