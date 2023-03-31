@@ -2,7 +2,7 @@ main:
   - title: "Registro"
     url: /registro
   - title: "Discord"
-    url: /discord2
+    url: /discord
 
 pages:
   - title: "¿Quiénes somos?"
