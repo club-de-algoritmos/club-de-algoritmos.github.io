@@ -43,6 +43,7 @@ defaults:
       type: pages
     values:
       permalink: /:basename
+      title: " "
       layout: single
       sidebar:
         - image: /assets/images/logo.png
