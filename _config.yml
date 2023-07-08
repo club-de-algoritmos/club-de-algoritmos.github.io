@@ -25,8 +25,12 @@ search: true
 lunr:
   search_within_pages: true
 
+include:
+  - _pages
+  - _posts
+
 defaults:
-  # Pages
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -37,7 +41,7 @@ defaults:
         - image: /assets/images/logo.png
           image_alt: "Logo"
           nav: pages
-  # Posts
+  # _posts
   - scope:
       path: "/blog"
       type: posts
