@@ -28,6 +28,11 @@ lunr:
 include:
   - _pages
   - _posts
+  - _redirects
+
+exclude:
+  - LICENSE
+  - README.md
 
 defaults:
   # _pages
