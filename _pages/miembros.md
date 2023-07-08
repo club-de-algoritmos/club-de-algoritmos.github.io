@@ -1,5 +1,1 @@
----
-permalink: /miembros
----
-
 # Miembros

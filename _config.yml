@@ -32,27 +32,34 @@ include:
 
 exclude:
   - CNAME
-  - Gemfile.*
+  - Gemfile*
   - LICENSE
   - README.md
 
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
+      permalink: /:basename
       layout: single
-      read_time: true
       sidebar:
         - image: /assets/images/logo.png
           image_alt: "Logo"
           nav: pages
+  # _redirects
+  - scope:
+      path: "_redirects"
+      type: pages
+    values:
+      permalink: /:basename
   # _posts
   - scope:
-      path: "/blog"
+      path: "_posts"
       type: posts
     values:
+      permalink: /:year/:month/:day/:title
       layout: single
       read_time: true
 

@@ -1,5 +1,1 @@
----
-permalink: /logros
----
-
 # Logros

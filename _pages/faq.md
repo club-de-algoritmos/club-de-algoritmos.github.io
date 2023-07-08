@@ -1,5 +1,1 @@
----
-permalink: /faq
----
-
 # Preguntas frecuentes
