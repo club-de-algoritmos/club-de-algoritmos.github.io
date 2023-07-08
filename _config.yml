@@ -31,6 +31,8 @@ include:
   - _redirects
 
 exclude:
+  - CNAME
+  - Gemfile.*
   - LICENSE
   - README.md
 
@@ -57,11 +59,11 @@ defaults:
 atom_feed:
   hide: true
 
-# TODO: Enable
-#analytics:
-#  provider: "google-gtag"
-#  google:
-#    tracking_id: "UA-1234567-8"
+analytics:
+  provider: "google-gtag"
+  google:
+    anonymize_ip: false
+    tracking_id: "G-ENM5RCJ7PS"
 
 footer:
   links:
