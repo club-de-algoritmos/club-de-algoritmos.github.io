@@ -3,6 +3,8 @@ main:
     url: /registro
   - title: "Discord"
     url: /discord
+  - title: "ICPC"
+    url: /icpc
 
 pages:
   - title: "¿Quiénes somos?"
@@ -15,3 +17,17 @@ pages:
         url: /miembros
       - title: "Preguntas frecuentes"
         url: /faq
+
+icpc:
+  - title: "ICPC"
+    children:
+      - title: "¿Qué es?"
+        url: /icpc
+      - title: "Resultados de México"
+        url: /icpc/resultados/mexico
+      - title: "Resultados de TecNM"
+        url: /icpc/resultados/tecnm
+      - title: "Resultados de Sinaloa"
+        url: /icpc/resultados/sinaloa
+      - title: "Resultados por escuela"
+        url: /icpc/resultados/escuela

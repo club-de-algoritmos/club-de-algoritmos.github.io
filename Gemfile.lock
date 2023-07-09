@@ -259,6 +259,7 @@ DEPENDENCIES
   github-pages
   jekyll-include-cache
   jekyll-redirect-from
+  jekyll-titles-from-headings
   webrick (~> 1.7)
 
 BUNDLED WITH
