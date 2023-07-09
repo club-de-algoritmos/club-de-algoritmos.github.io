@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// The following is custom code (not from Minimal Mistakes)
+html {
+  h3 {
+    font-size: 1em;
+  }
+  li {
+    font-size: 16px !important;
+  }
+}
