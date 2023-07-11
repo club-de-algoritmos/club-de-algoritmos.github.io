@@ -64,8 +64,10 @@ defaults:
       path: "_escuela"
       type: escuela
     values:
-      layout: single
+      layout: archive
       collection: escuela
+      toc: true
+      toc_sticky: true
       sidebar:
         - image: /assets/images/logo.png
           image_alt: "Logo"
