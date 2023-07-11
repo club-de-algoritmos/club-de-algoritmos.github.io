@@ -1,10 +1,8 @@
 main:
-  - title: "Registro"
-    url: /registro
-  - title: "Discord"
-    url: /discord
   - title: "ICPC"
     url: /icpc
+  - title: "Registro"
+    url: /registro
 
 pages:
   - title: "¿Quiénes somos?"
