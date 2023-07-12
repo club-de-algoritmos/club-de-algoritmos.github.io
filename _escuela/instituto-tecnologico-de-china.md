@@ -14,7 +14,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **0** | **1** | **1** |
-| 2020-2021 | 0 | 0 | 1 | 1 |
+| [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 |
 
 ### 2020-2021
 

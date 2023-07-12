@@ -14,7 +14,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **1** | **1** | **1** |
-| 2022-2023 | 0 | 1 | 1 | 1 |
+| [2022-2023](#2022-2023) | 0 | 1 | 1 | 1 |
 
 ### 2022-2023
 
