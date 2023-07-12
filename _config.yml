@@ -64,10 +64,11 @@ defaults:
       path: "_escuela"
       type: escuela
     values:
-      layout: archive
+      layout: single
       collection: escuela
       toc: true
       toc_sticky: true
+      disable_paginator: true  # Custom property
       sidebar:
         - image: /assets/images/logo.png
           image_alt: "Logo"
