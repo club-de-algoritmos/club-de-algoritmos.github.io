@@ -10,10 +10,26 @@ search: false
 
 // The following is custom code (not from Minimal Mistakes)
 html {
-  h3 {
-    font-size: 1em;
-  }
-  li {
-    font-size: 16px !important;
-  }
+    // Make some fonts smaller as they were too big
+    h3 {
+        font-size: 1em;
+    }
+    li {
+        font-size: 16px !important;
+    }
+
+    // Make the top bar sticky
+    body {
+        padding-top: 85px !important;
+    }
+    .masthead {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background: $background-color;
+        height: 85px;
+    }
+    .sticky {
+        padding-top: 50px;
+    }
 }
