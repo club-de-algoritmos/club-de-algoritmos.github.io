@@ -7,6 +7,8 @@ main:
 pages:
   - title: "¿Quiénes somos?"
     children:
+      - title: "Historia"
+        url: /historia
       - title: "Misión y visión"
         url: /mision-vision
       - title: "Logros"
