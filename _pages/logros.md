@@ -25,3 +25,6 @@ TecNM 2022, en lugares #3 y #7.
 - El IT Culiacán clasifica a dos equipos a la final de México del ICPC
 2023-2024, lo cual nunca había logrado desde que se introdujo la etapa del
 Gran Premio para clasificar a las finales de México.
+- El top 5 del Concurso Nivel Intermedio de la SemanaUp (concurso celebrado
+para clubes de programación de omegaUp) está conformado por solo miembros
+del Club de Algoritmos de Sinaloa.
