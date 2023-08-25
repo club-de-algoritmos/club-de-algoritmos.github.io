@@ -23,6 +23,12 @@ icpc:
     children:
       - title: "¿Qué es?"
         url: /icpc
+      - title: "Resultados"
+        url: /icpc/resultados
+
+icpc_results:
+  - title: "Resultados en el ICPC"
+    children:
       - title: "Resultados de México"
         url: /icpc/resultados/mexico
       - title: "Resultados de TecNM"

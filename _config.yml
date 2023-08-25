@@ -61,6 +61,18 @@ defaults:
           nav: icpc
 
   - scope:
+      path: "icpc/resultados"
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+      sidebar:
+        - image: /assets/images/logo.png
+          image_alt: "Logo"
+          nav: icpc_results
+
+  - scope:
       path: "_escuela"
       type: escuela
     values:
@@ -72,7 +84,7 @@ defaults:
       sidebar:
         - image: /assets/images/logo.png
           image_alt: "Logo"
-          nav: icpc
+          nav: icpc_results
 
   - scope:
       path: "_pages"
