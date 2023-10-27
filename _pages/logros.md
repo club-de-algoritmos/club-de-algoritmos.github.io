@@ -28,3 +28,5 @@ Gran Premio para clasificar a las finales de México.
 - El top 5 del Concurso Nivel Intermedio de la SemanaUp (concurso celebrado
 para clubes de programación de omegaUp) está conformado por solo miembros
 del Club de Algoritmos de Sinaloa.
+- El IT Culiacán logra posicionarse en los lugares #13 y #30 en la final de
+México del ICPC 2023-2024.
