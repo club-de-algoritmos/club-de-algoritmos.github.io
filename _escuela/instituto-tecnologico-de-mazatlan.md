@@ -1,7 +1,7 @@
 ---
 ---
 
-# Tecnológico Nacional de México / Instituto Tecnológico de Mazatlán
+# Instituto Tecnológico de Mazatlán
 
 ## Mejores 10 equipos
 
