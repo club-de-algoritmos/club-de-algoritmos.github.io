@@ -43,6 +43,8 @@ icpc_results:
 icpc_scoreboard:
   - title: "Scoreboards"
     children:
+      - title: "2019"
+        url: /icpc/scoreboard/mexico/2019
       - title: "2020"
         url: /icpc/scoreboard/mexico/2020
       - title: "2021"
