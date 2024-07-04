@@ -25,6 +25,8 @@ icpc:
         url: /icpc
       - title: "Resultados"
         url: /icpc/resultados
+      - title: "Scoreboards"
+        url: /icpc/scoreboard
 
 icpc_results:
   - title: "Resultados en el ICPC"
@@ -37,3 +39,9 @@ icpc_results:
         url: /icpc/resultados/sinaloa
       - title: "Resultados por escuela"
         url: /icpc/resultados/escuela
+
+icpc_scoreboard:
+  - title: "Scoreboards"
+    children:
+      - title: "2023"
+        url: /icpc/scoreboard/mexico/2023

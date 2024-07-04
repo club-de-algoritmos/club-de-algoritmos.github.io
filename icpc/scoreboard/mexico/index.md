@@ -1,0 +1,1 @@
+# Scoreboards del ICPC México
