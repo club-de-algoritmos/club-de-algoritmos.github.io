@@ -43,5 +43,7 @@ icpc_results:
 icpc_scoreboard:
   - title: "Scoreboards"
     children:
+      - title: "2022"
+        url: /icpc/scoreboard/mexico/2022
       - title: "2023"
         url: /icpc/scoreboard/mexico/2023
