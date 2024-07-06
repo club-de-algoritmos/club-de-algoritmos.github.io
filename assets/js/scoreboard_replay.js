@@ -11,7 +11,11 @@ function isHidden(el) {
 
 function setTime(time) {
     let { slider, sliderLabel } = window.replay;
+
+    // Ensure slider value is correct (won't trigger another filter action)
     slider.value = time;
+
+    // Update the slider label
     sliderLabel.innerText = `${time} (${formatTime(time)})`;
     if (time >= 300) {
         sliderLabel.style.color = 'red';
@@ -20,6 +24,15 @@ function setTime(time) {
     } else {
         sliderLabel.style.color = 'black';
     }
+
+    // Reflect the time in the URL for easy sharing
+    const urlParams = new URLSearchParams(window.location.search);
+    if (time === 300) {
+        urlParams.delete('time');
+    } else {
+        urlParams.set('time', time);
+    }
+    history.replaceState(null, null, `?${urlParams}`);
 }
 
 function filterScoreboard(time) {
@@ -28,6 +41,7 @@ function filterScoreboard(time) {
         return;
     }
 
+    // Reflect the new time everywhere
     setTime(time);
 
     const rowsToSort = [];
@@ -104,7 +118,7 @@ function filterScoreboard(time) {
     rowContainer.replaceChildren(...sortedRows);
 }
 
-function showReplay() {
+function showReplay(initialTime) {
     if (document.readyState !== 'complete') {
         // DOM is not ready yet
         return false;
@@ -140,8 +154,8 @@ function showReplay() {
     window.replay.slider = slider;
     window.replay.sliderLabel = document.getElementById('replay-time-label');
 
-    // Initialize the components
-    setTime(300);
+    // Initialize the time
+    setTime(initialTime);
 
     // Listen to arrow keys for step by step replay
     document.onkeydown = (e) => {
@@ -238,16 +252,31 @@ function initializeData() {
 
 function resetReplay() {
     if (!window.replay.isInitialized) {
-        if (!showReplay()) {
+        const urlParams = new URLSearchParams(window.location.search);
+        const timeValue = urlParams.get('time') || '300';
+        let time = parseInt(timeValue);
+        if (isNaN(time)) {
+            time = 300;
+        }
+        // Ensure time is in the [0, 300] range
+        time = Math.max(0, Math.min(300, time));
+
+        if (!showReplay(time)) {
             return;
         }
 
         initializeData();
         autoDetectFilterChanges();
         window.replay.isInitialized = true;
+
+        // Only filter when not at the end, as it's a no-op
+        if (time < 300) {
+            filterScoreboard(time);
+        }
         return;
     }
 
+    // Reset to the end
     filterScoreboard(300);
 }
 
