@@ -23,14 +23,18 @@ function setTime(time) {
 }
 
 function filterScoreboard(time) {
+    let { isInitialized, scoreTable, problemStartIndex, totalIndex } = window.replay;
+    if (!isInitialized) {
+        return;
+    }
+
     setTime(time);
 
-    let { scoreTable, problemStartIndex, totalIndex } = window.replay;
     const rowsToSort = [];
     const sortedRows = [];
     for (let i = 0; i < scoreTable.rows.length; i++) {
         const row = scoreTable.rows[i];
-        if (i == 0 || isHidden(row)) {
+        if (i == 0 || isHidden(row) || row.cells.length <= totalIndex) {
             // Avoid computations on hidden rows
             sortedRows.push(row);
             continue;
@@ -56,41 +60,44 @@ function filterScoreboard(time) {
         const teamName = totalCell.dataset.team;
         if (time == 300) {
             totalCell.innerHTML = totalCell.dataset.original;
-            rowsToSort.push([0, parseInt(totalCell.dataset.order), teamName, row]);
+            rowsToSort.push({
+                totalAc: 0,
+                totalPenalty: parseInt(totalCell.dataset.order),
+                teamName,
+                row,
+            });
         } else {
             totalCell.innerHTML = `${totalAc} (${totalPenalty})`;
-            rowsToSort.push([totalAc, totalPenalty, teamName, row]);
+            rowsToSort.push({ totalAc, totalPenalty, teamName, row });
         }
     }
 
     rowsToSort.sort((a, b) => {
-        const [acA, penaltyA, teamNameA, rowA] = a;
-        const [acB, penaltyB, teamNameB, rowB] = b;
-        if (acA != acB) {
+        if (a.totalAc !== b.totalAc) {
             // More AC first
-            return acB - acA;
+            return b.totalAc - a.totalAc;
         }
-        if (penaltyA != penaltyB) {
-            return penaltyA - penaltyB;
+        if (a.totalPenalty != b.totalPenalty) {
+            return a.totalPenalty - b.totalPenalty;
         }
-        return teamNameA.toLowerCase().localeCompare(teamNameB.toLowerCase());
+        return a.teamName.toLowerCase().localeCompare(b.teamName.toLowerCase());
     });
 
     let lastRank = 0;
     for (let i = 0; i < rowsToSort.length; i++) {
-        const [ac, penalty, teamName, row] = rowsToSort[i];
+        const row = rowsToSort[i];
         let rank = i + 1;
         if (i > 0) {
-            const [prevAc, prevPenalty, prevTeamName, prevRow] = rowsToSort[i - 1];
-            if (ac == prevAc && penalty == prevPenalty) {
+            const prevRow = rowsToSort[i - 1];
+            if (row.totalAc == prevRow.totalAc && row.totalPenalty == prevRow.totalPenalty) {
                 // A tie, so keep the same rank
                 rank = lastRank;
             }
         }
         lastRank = rank;
 
-        row.cells[0].innerHTML = rank;
-        sortedRows.push(row);
+        row.row.cells[0].innerHTML = rank;
+        sortedRows.push(row.row);
     }
 
     const rowContainer = scoreTable.rows[0].parentNode;
@@ -98,9 +105,8 @@ function filterScoreboard(time) {
 }
 
 function showReplay() {
-    const parent = document.body;
-    if (!parent) {
-        // DOM has not loaded yet
+    if (document.readyState !== 'complete') {
+        // DOM is not ready yet
         return false;
     }
 
@@ -124,7 +130,7 @@ function showReplay() {
     `;
 
     // Show replay component at the top
-    parent.insertBefore(container, parent.firstChild);
+    document.body.insertBefore(container, document.body.firstChild);
 
     const title = document.getElementById('replay-title');
     title.innerText = document.title;
@@ -160,6 +166,18 @@ function showReplay() {
     };
 
     return true;
+}
+
+function autoDetectFilterChanges() {
+    const toggleGroup = window.toggleGroup;
+    if (!toggleGroup) {
+        return;
+    }
+
+    window.toggleGroup = (...args) => {
+        toggleGroup(...args);
+        resetReplay();
+    };
 }
 
 function initializeData() {
@@ -225,6 +243,7 @@ function resetReplay() {
         }
 
         initializeData();
+        autoDetectFilterChanges();
         window.replay.isInitialized = true;
         return;
     }
@@ -232,8 +251,15 @@ function resetReplay() {
     filterScoreboard(300);
 }
 
-window.replay = {
-    isInitialized: false,
-};
+if (!window.replay) {
+    window.replay = {
+        isInitialized: false,
+    };
 
-window.reset_scoreboard_replay = resetReplay;
+    // Initialize the component once the ODM is ready
+    document.onreadystatechange = function () {
+      if (document.readyState === 'complete') {
+        resetReplay();
+      }
+    }
+}

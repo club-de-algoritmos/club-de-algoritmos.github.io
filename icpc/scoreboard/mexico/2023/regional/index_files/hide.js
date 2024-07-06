@@ -25,5 +25,4 @@ function toggleGroup(n) {
       modifyClassName(currentClass,true,"sitehide"+i);
     }
     modifyClassName(currentClass,false,"sitehide"+n);
-    window.reset_scoreboard_replay();
 }
