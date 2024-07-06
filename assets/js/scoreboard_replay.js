@@ -9,12 +9,23 @@ function isHidden(el) {
     return (el.offsetParent === null)
 }
 
-function filterScoreboard(time) {
-    let { slider, sliderLabel, scoreTable, problemStartIndex, totalIndex } = window.replay;
-    // Ensure the slider and its label are updated
+function setTime(time) {
+    let { slider, sliderLabel } = window.replay;
     slider.value = time;
     sliderLabel.innerText = `${time} (${formatTime(time)})`;
+    if (time >= 300) {
+        sliderLabel.style.color = 'red';
+    } else if (time >= 240) {
+        sliderLabel.style.color = 'blue';
+    } else {
+        sliderLabel.style.color = 'black';
+    }
+}
 
+function filterScoreboard(time) {
+    setTime(time);
+
+    let { scoreTable, problemStartIndex, totalIndex } = window.replay;
     const rowsToSort = [];
     const sortedRows = [];
     for (let i = 0; i < scoreTable.rows.length; i++) {
@@ -97,18 +108,18 @@ function showReplay() {
     const container = document.createElement('div');
     container.innerHTML = `
         <div style="width: 800px; margin: 5px auto; padding: 5px 10px; text-align: center; font-family: sans-serif; background-color: #d4efff">
-            <div style="display: flex">
-                <label>0 (0:00)</label>
-                <label id="replay-title" style="flex: 1; font-weight: bold"></label>
-                <label>300 (5:00)</label>
-            </div>
+            <label id="replay-title" style="font-weight: bold"></label>
             <input
                 type="range" id="replay-time" name="replay-time"
                 style="width: 100%"
-                step="1" min="0" max="300" value="300"
+                step="1" min="0" max="300"
                 oninput="javascript:filterScoreboard(parseInt(this.value))"
             />
-            <label id="replay-time-label">300 (5:00)</label>
+            <div style="display: flex">
+                <label>0 (0:00)</label>
+                <label id="replay-time-label" style="flex: 1"></label>
+                <label>300 (5:00)</label>
+            </div>
         </div>
     `;
 
@@ -122,6 +133,9 @@ function showReplay() {
     const slider = document.getElementById('replay-time');
     window.replay.slider = slider;
     window.replay.sliderLabel = document.getElementById('replay-time-label');
+
+    // Initialize the components
+    setTime(300);
 
     // Listen to arrow keys for step by step replay
     document.onkeydown = (e) => {
