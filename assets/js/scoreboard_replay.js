@@ -1,7 +1,7 @@
 function formatTime(time) {
-    var hours = Math.floor(time / 60);
-    var minutes = time % 60;
-    var paddedMinutes = minutes < 10 ? `0${minutes}` : `${minutes}`;
+    const hours = Math.floor(time / 60);
+    const minutes = time % 60;
+    const paddedMinutes = minutes < 10 ? `0${minutes}` : `${minutes}`;
     return `${hours}:${paddedMinutes}`;
 }
 
@@ -15,21 +15,23 @@ function filterScoreboard(time) {
     slider.value = time;
     sliderLabel.innerText = `${time} (${formatTime(time)})`;
 
-    var rowsToSort = [];
-    for (var i = 1; i < scoreTable.rows.length; i++) {
-        var row = scoreTable.rows[i];
-        if (isHidden(row)) {
+    const rowsToSort = [];
+    const sortedRows = [];
+    for (let i = 0; i < scoreTable.rows.length; i++) {
+        const row = scoreTable.rows[i];
+        if (i == 0 || isHidden(row)) {
             // Avoid computations on hidden rows
+            sortedRows.push(row);
             continue;
         }
 
-        var totalAc = 0;
-        var totalPenalty = 0;
-        for (var j = problemStartIndex; j < totalIndex; j++) {
-            var cell = row.cells[j];
-            var ac = parseInt(cell.dataset.ac);
-            var acTime = parseInt(cell.dataset.time);
-            var penalty = parseInt(cell.dataset.penalty);
+        let totalAc = 0;
+        let totalPenalty = 0;
+        for (let j = problemStartIndex; j < totalIndex; j++) {
+            const cell = row.cells[j];
+            const ac = parseInt(cell.dataset.ac);
+            const acTime = parseInt(cell.dataset.time);
+            const penalty = parseInt(cell.dataset.penalty);
             if (time == 300 || (ac && acTime <= time)) {
                 cell.innerHTML = cell.dataset.original;
                 totalAc++;
@@ -39,8 +41,8 @@ function filterScoreboard(time) {
             }
         }
 
-        var totalCell = row.cells[totalIndex];
-        var teamName = totalCell.dataset.team;
+        const totalCell = row.cells[totalIndex];
+        const teamName = totalCell.dataset.team;
         if (time == 300) {
             totalCell.innerHTML = totalCell.dataset.original;
             rowsToSort.push([0, parseInt(totalCell.dataset.order), teamName, row]);
@@ -49,9 +51,10 @@ function filterScoreboard(time) {
             rowsToSort.push([totalAc, totalPenalty, teamName, row]);
         }
     }
+
     rowsToSort.sort((a, b) => {
-        var [acA, penaltyA, teamNameA, rowA] = a;
-        var [acB, penaltyB, teamNameB, rowB] = b;
+        const [acA, penaltyA, teamNameA, rowA] = a;
+        const [acB, penaltyB, teamNameB, rowB] = b;
         if (acA != acB) {
             // More AC first
             return acB - acA;
@@ -61,12 +64,13 @@ function filterScoreboard(time) {
         }
         return teamNameA.toLowerCase().localeCompare(teamNameB.toLowerCase());
     });
-    var lastRank = 0;
-    for (var i = 0; i < rowsToSort.length; i++) {
-        var [ac, penalty, teamName, row] = rowsToSort[i];
-        var rank = i + 1;
+
+    let lastRank = 0;
+    for (let i = 0; i < rowsToSort.length; i++) {
+        const [ac, penalty, teamName, row] = rowsToSort[i];
+        let rank = i + 1;
         if (i > 0) {
-            var [prevAc, prevPenalty, prevTeamName, prevRow] = rowsToSort[i - 1];
+            const [prevAc, prevPenalty, prevTeamName, prevRow] = rowsToSort[i - 1];
             if (ac == prevAc && penalty == prevPenalty) {
                 // A tie, so keep the same rank
                 rank = lastRank;
@@ -75,19 +79,22 @@ function filterScoreboard(time) {
         lastRank = rank;
 
         row.cells[0].innerHTML = rank;
-        row.parentNode.appendChild(row);
+        sortedRows.push(row);
     }
+
+    const rowContainer = scoreTable.rows[0].parentNode;
+    rowContainer.replaceChildren(...sortedRows);
 }
 
 function showReplay() {
-    var parent = document.body;
+    const parent = document.body;
     if (!parent) {
         // DOM has not loaded yet
         return false;
     }
 
     // Define the HTML
-    var container = document.createElement('div');
+    const container = document.createElement('div');
     container.innerHTML = `
         <div style="width: 800px; margin: 5px auto; padding: 5px 10px; text-align: center; font-family: sans-serif; background-color: #d4efff">
             <div style="display: flex">
@@ -108,11 +115,11 @@ function showReplay() {
     // Show replay component at the top
     parent.insertBefore(container, parent.firstChild);
 
-    var title = document.getElementById('replay-title');
+    const title = document.getElementById('replay-title');
     title.innerText = document.title;
 
     // Remember elements for easy access
-    var slider = document.getElementById('replay-time');
+    const slider = document.getElementById('replay-time');
     window.replay.slider = slider;
     window.replay.sliderLabel = document.getElementById('replay-time-label');
 
@@ -125,13 +132,13 @@ function showReplay() {
 
         if (e.keyCode === 37) {
             // Left arrow
-            var time = parseInt(slider.value);
+            const time = parseInt(slider.value);
             if (time > 0) {
                 filterScoreboard(time - 1);
             }
         } else if (e.keyCode === 39) {
             // Right arrow
-            var time = parseInt(slider.value);
+            const time = parseInt(slider.value);
             if (time < 300) {
                 filterScoreboard(time + 1);
             }
@@ -142,14 +149,14 @@ function showReplay() {
 }
 
 function initializeData() {
-    var scoreTable = document.getElementById('myscoretable');
+    const scoreTable = document.getElementById('myscoretable');
     window.replay.scoreTable = scoreTable;
 
     // Find the cell index where the problems start at
-    var headerRow = scoreTable.rows[0];
-    var problemStartIndex = 0;
+    const headerRow = scoreTable.rows[0];
+    let problemStartIndex = 0;
     while (problemStartIndex < headerRow.cells.length) {
-        var cell = headerRow.cells[problemStartIndex];
+        const cell = headerRow.cells[problemStartIndex];
         if (cell.innerText.trim() == 'A') {
             break;
         }
@@ -158,20 +165,20 @@ function initializeData() {
     window.replay.problemStartIndex = problemStartIndex;
 
     // The cell where the total is displayed is always last
-    var totalIndex = headerRow.cells.length - 1;
+    const totalIndex = headerRow.cells.length - 1;
     window.replay.totalIndex = totalIndex;
 
     // Skip the first row as that's the header
-    for (var i = 1; i < scoreTable.rows.length; i++) {
-        var row = scoreTable.rows[i];
-        for (var j = problemStartIndex; j < totalIndex; j++) {
-            var cell = row.cells[j];
-            var content = cell.innerText.trim();
-            var ac = 0;
-            var submissions = 0;
-            var time = 0;
+    for (let i = 1; i < scoreTable.rows.length; i++) {
+        const row = scoreTable.rows[i];
+        for (let j = problemStartIndex; j < totalIndex; j++) {
+            const cell = row.cells[j];
+            const content = cell.innerText.trim();
+            let ac = 0;
+            let submissions = 0;
+            let time = 0;
             if (content) {
-                var parts = content.split('/');
+                const parts = content.split('/');
                 submissions = parseInt(parts[0]);
                 if (parts[1] != '-') {
                     time = parseInt(parts[1]);
@@ -187,7 +194,7 @@ function initializeData() {
             cell.dataset.original = cell.innerHTML;
         }
 
-        var totalCell = row.cells[totalIndex];
+        const totalCell = row.cells[totalIndex];
         // Store original HTML for eventual correctness
         totalCell.dataset.original = totalCell.innerHTML;
         // Store the original order to be 100% accurate when displaying final results
