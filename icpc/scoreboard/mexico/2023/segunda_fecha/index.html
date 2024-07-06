@@ -1105,6 +1105,7 @@ table.sitehide997 .sitegroup997 { display: none; }
 table.sitehide998 .sitegroup998 { display: none; }
 a { color: #000000; }
 </style>
+<script type="text/javascript" src="/assets/js/scoreboard_replay.js"></script>
 <script type="text/javascript">
 var modifyClassName = function (elem, add, string) {
 var s = (elem.className) ? elem.className : "";
@@ -1133,6 +1134,7 @@ function toggleGroup(n) {
       modifyClassName(currentClass,true,"sitehide"+i);
     }
     modifyClassName(currentClass,false,"sitehide"+n);
+    window.reset_scoreboard_replay();
 }
 
 </script>
