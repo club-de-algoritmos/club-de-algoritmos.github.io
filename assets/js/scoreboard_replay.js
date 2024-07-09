@@ -48,7 +48,7 @@ function filterScoreboard(time) {
     const sortedRows = [];
     for (let i = 0; i < scoreTable.rows.length; i++) {
         const row = scoreTable.rows[i];
-        if (i == 0 || isHidden(row) || row.cells.length <= totalIndex) {
+        if (i === 0 || isHidden(row)) {
             // Avoid computations on hidden rows
             sortedRows.push(row);
             continue;
@@ -56,27 +56,28 @@ function filterScoreboard(time) {
 
         let totalAc = 0;
         let totalPenalty = 0;
+
+        const totalCell = row.cells[totalIndex];
+        const replayId = parseInt(totalCell.dataset.replay_id);
+        const rowData = window.replay.allRowData[replayId];
         for (let j = problemStartIndex; j < totalIndex; j++) {
             const cell = row.cells[j];
-            const ac = parseInt(cell.dataset.ac);
-            const acTime = parseInt(cell.dataset.time);
-            const penalty = parseInt(cell.dataset.penalty);
-            if (time == 300 || (ac && acTime <= time)) {
-                cell.innerHTML = cell.dataset.original;
+            const cellData = rowData[j];
+            if (time === 300 || (cellData.ac && cellData.time <= time)) {
+                cell.innerHTML = cellData.html;
                 totalAc++;
-                totalPenalty += penalty;
+                totalPenalty += cellData.penalty;
             } else {
                 cell.innerHTML = '';
             }
         }
 
-        const totalCell = row.cells[totalIndex];
-        const teamName = totalCell.dataset.team;
-        if (time == 300) {
-            totalCell.innerHTML = totalCell.dataset.original;
+        const teamName = rowData.teamName;
+        if (time === 300) {
+            totalCell.innerHTML = rowData.totalHtml;
             rowsToSort.push({
                 totalAc: 0,
-                totalPenalty: parseInt(totalCell.dataset.order),
+                totalPenalty: replayId,
                 teamName,
                 row,
             });
@@ -103,7 +104,7 @@ function filterScoreboard(time) {
         let rank = i + 1;
         if (i > 0) {
             const prevRow = rowsToSort[i - 1];
-            if (row.totalAc == prevRow.totalAc && row.totalPenalty == prevRow.totalPenalty) {
+            if (row.totalAc === prevRow.totalAc && row.totalPenalty === prevRow.totalPenalty) {
                 // A tie, so keep the same rank
                 rank = lastRank;
             }
@@ -198,12 +199,14 @@ function initializeData() {
     const scoreTable = document.getElementById('myscoretable');
     window.replay.scoreTable = scoreTable;
 
+    const allRowData = {};
+
     // Find the cell index where the problems start at
     const headerRow = scoreTable.rows[0];
     let problemStartIndex = 0;
     while (problemStartIndex < headerRow.cells.length) {
         const cell = headerRow.cells[problemStartIndex];
-        if (cell.innerText.trim() == 'A') {
+        if (cell.innerText.trim() === 'A') {
             break;
         }
         problemStartIndex++;
@@ -217,6 +220,18 @@ function initializeData() {
     // Skip the first row as that's the header
     for (let i = 1; i < scoreTable.rows.length; i++) {
         const row = scoreTable.rows[i];
+        const totalCell = row.cells[totalIndex];
+        totalCell.dataset.replay_id = i;
+
+        const rowData = {
+            // Store the assumed team name to keep a consistent ordering on ties
+            teamName: row.cells[problemStartIndex - 1].innerText.trim(),
+            // Store original HTML for eventual correctness
+            totalHtml: totalCell.innerHTML,
+        };
+
+        allRowData[i] = rowData;
+
         for (let j = problemStartIndex; j < totalIndex; j++) {
             const cell = row.cells[j];
             const content = cell.innerText.trim();
@@ -233,21 +248,12 @@ function initializeData() {
             }
 
             // Store parsed data
-            cell.dataset.ac = ac;
-            cell.dataset.time = time;
-            cell.dataset.penalty = ac == 0 ? 0 : time + 20 * (submissions - 1);
-            // Store original HTML for eventual correctness
-            cell.dataset.original = cell.innerHTML;
+            const penalty = ac === 0 ? 0 : time + 20 * (submissions - 1);
+            rowData[j] = { ac, time, penalty, html: cell.innerHTML }
         }
-
-        const totalCell = row.cells[totalIndex];
-        // Store original HTML for eventual correctness
-        totalCell.dataset.original = totalCell.innerHTML;
-        // Store the original order to be 100% accurate when displaying final results
-        totalCell.dataset.order = i;
-        // Store the assumed team name to keep a consistent ordering on ties
-        totalCell.dataset.team = row.cells[problemStartIndex - 1].innerText.trim();
     }
+
+    window.replay.allRowData = allRowData;
 }
 
 function resetReplay() {
