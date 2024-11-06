@@ -6,6 +6,7 @@
 ## Mejores 10 equipos
 
 1. _Borregos Salvajes_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2023 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
 1. _Tsurus Tuneados_ resolvió 3 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Mexico Finals
 1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
@@ -20,29 +21,29 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **49** | **54** | **95** |
-| [2001-2002](#2001-2002) | 0 | 1 | 0 | 1 |
-| [2002-2003](#2002-2003) | 0 | 3 | 0 | 3 |
-| [2003-2004](#2003-2004) | 0 | 1 | 0 | 1 |
-| [2004-2005](#2004-2005) | 0 | 1 | 0 | 1 |
-| [2006-2007](#2006-2007) | 0 | 10 | 0 | 10 |
-| [2007-2008](#2007-2008) | 0 | 18 | 0 | 18 |
-| [2008-2009](#2008-2009) | 0 | 2 | 0 | 2 |
-| [2009-2010](#2009-2010) | 0 | 2 | 0 | 2 |
-| [2010-2011](#2010-2011) | 0 | 1 | 0 | 1 |
-| [2011-2012](#2011-2012) | 0 | 1 | 0 | 1 |
-| [2013-2014](#2013-2014) | 0 | 1 | 0 | 1 |
-| [2014-2015](#2014-2015) | 0 | 0 | 3 | 3 |
-| [2015-2016](#2015-2016) | 0 | 0 | 6 | 6 |
-| [2017-2018](#2017-2018) | 0 | 0 | 2 | 2 |
-| [2018-2019](#2018-2019) | 0 | 1 | 2 | 2 |
-| [2019-2020](#2019-2020) | 0 | 0 | 4 | 4 |
-| [2020-2021](#2020-2021) | 0 | 1 | 16 | 16 |
-| [2021-2022](#2021-2022) | 0 | 2 | 8 | 8 |
-| [2022-2023](#2022-2023) | 0 | 1 | 8 | 8 |
-| [2023-2024](#2023-2024) | 0 | 3 | 5 | 5 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **1** | **1** | **49** | **54** | **95** |
+| [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
+| [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
+| [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
+| [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
+| [2006-2007](#2006-2007) | 0 | 0 | 10 | 0 | 10 |
+| [2007-2008](#2007-2008) | 0 | 0 | 18 | 0 | 18 |
+| [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
+| [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
+| [2010-2011](#2010-2011) | 0 | 0 | 1 | 0 | 1 |
+| [2011-2012](#2011-2012) | 0 | 0 | 1 | 0 | 1 |
+| [2013-2014](#2013-2014) | 0 | 0 | 1 | 0 | 1 |
+| [2014-2015](#2014-2015) | 0 | 0 | 0 | 3 | 3 |
+| [2015-2016](#2015-2016) | 0 | 0 | 0 | 6 | 6 |
+| [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
+| [2018-2019](#2018-2019) | 0 | 0 | 1 | 2 | 2 |
+| [2019-2020](#2019-2020) | 0 | 0 | 0 | 4 | 4 |
+| [2020-2021](#2020-2021) | 0 | 0 | 1 | 16 | 16 |
+| [2021-2022](#2021-2022) | 0 | 0 | 2 | 8 | 8 |
+| [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
+| [2023-2024](#2023-2024) | 1 | 1 | 3 | 5 | 5 |
 
 ### 2001-2002
 
@@ -194,6 +195,7 @@
 ### 2023-2024
 
 1. #3 (#1 de ITESM) _Borregos Salvajes_ (Regional)
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
 1. #33 (#6 de ITESM) _Los Fosa_ (Regional)
 1. #49 (#7 de ITESM) _TECueme_ (Regional)
 1. #295 (#38 de ITESM) _Bubble Sorters_ (Clasificatorio)

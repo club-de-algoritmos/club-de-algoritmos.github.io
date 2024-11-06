@@ -7,6 +7,8 @@
 
 1. _OWO_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2022 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
+1. _OWO_ resolvió 7 problemas y obtuvo el lugar #1 (100%) en The 2023 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 4 problemas y obtuvo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
 1. _E3_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2019 ICPC Mexico Finals
     - Avanzó a la final mundial y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. _Manowar_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2010 Mexico & Central America Regional Contest
@@ -19,7 +21,6 @@
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #56 (18%) en The 2003 ACM Programming Contest World Finals
 1. _U de Guanajuato Hausdorff_ resolvió 6 problemas y obtuvo el lugar #2 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
-1. _OWO_ resolvió 7 problemas y obtuvo el lugar #1 (100%) en The 2023 ICPC Mexico Finals
 1. _La última y nos vamos_ resolvió 6 problemas y obtuvo el lugar #2 (100%) en The 2023 ICPC Mexico Finals
 1. _JoJoJo’S_ resolvió 5 problemas y obtuvo el lugar #5 (100%) en The 2022 ICPC Mexico Finals
 
@@ -27,32 +28,32 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **7** | **60** | **65** | **95** |
-| [2001-2002](#2001-2002) | 0 | 2 | 0 | 2 |
-| [2002-2003](#2002-2003) | 1 | 3 | 0 | 3 |
-| [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
-| [2004-2005](#2004-2005) | 0 | 2 | 0 | 2 |
-| [2005-2006](#2005-2006) | 0 | 2 | 0 | 2 |
-| [2006-2007](#2006-2007) | 0 | 2 | 0 | 2 |
-| [2007-2008](#2007-2008) | 1 | 3 | 0 | 3 |
-| [2008-2009](#2008-2009) | 0 | 3 | 0 | 3 |
-| [2009-2010](#2009-2010) | 1 | 2 | 0 | 2 |
-| [2010-2011](#2010-2011) | 1 | 2 | 0 | 2 |
-| [2011-2012](#2011-2012) | 1 | 3 | 0 | 3 |
-| [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
-| [2013-2014](#2013-2014) | 0 | 1 | 0 | 1 |
-| [2014-2015](#2014-2015) | 0 | 3 | 6 | 6 |
-| [2015-2016](#2015-2016) | 0 | 4 | 8 | 8 |
-| [2016-2017](#2016-2017) | 0 | 2 | 8 | 8 |
-| [2017-2018](#2017-2018) | 0 | 3 | 6 | 6 |
-| [2018-2019](#2018-2019) | 0 | 3 | 5 | 5 |
-| [2019-2020](#2019-2020) | 1 | 3 | 4 | 4 |
-| [2020-2021](#2020-2021) | 0 | 3 | 6 | 6 |
-| [2021-2022](#2021-2022) | 0 | 3 | 7 | 7 |
-| [2022-2023](#2022-2023) | 1 | 3 | 10 | 10 |
-| [2023-2024](#2023-2024) | 0 | 3 | 5 | 5 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **8** | **2** | **60** | **65** | **95** |
+| [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
+| [2002-2003](#2002-2003) | 1 | 0 | 3 | 0 | 3 |
+| [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
+| [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
+| [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
+| [2006-2007](#2006-2007) | 0 | 0 | 2 | 0 | 2 |
+| [2007-2008](#2007-2008) | 1 | 0 | 3 | 0 | 3 |
+| [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
+| [2009-2010](#2009-2010) | 1 | 0 | 2 | 0 | 2 |
+| [2010-2011](#2010-2011) | 1 | 0 | 2 | 0 | 2 |
+| [2011-2012](#2011-2012) | 1 | 0 | 3 | 0 | 3 |
+| [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
+| [2013-2014](#2013-2014) | 0 | 0 | 1 | 0 | 1 |
+| [2014-2015](#2014-2015) | 0 | 0 | 3 | 6 | 6 |
+| [2015-2016](#2015-2016) | 0 | 0 | 4 | 8 | 8 |
+| [2016-2017](#2016-2017) | 0 | 0 | 2 | 8 | 8 |
+| [2017-2018](#2017-2018) | 0 | 0 | 3 | 6 | 6 |
+| [2018-2019](#2018-2019) | 0 | 0 | 3 | 5 | 5 |
+| [2019-2020](#2019-2020) | 1 | 0 | 3 | 4 | 4 |
+| [2020-2021](#2020-2021) | 0 | 0 | 3 | 6 | 6 |
+| [2021-2022](#2021-2022) | 0 | 0 | 3 | 7 | 7 |
+| [2022-2023](#2022-2023) | 1 | 0 | 3 | 10 | 10 |
+| [2023-2024](#2023-2024) | 1 | 2 | 3 | 5 | 5 |
 
 ### 2001-2002
 
@@ -220,6 +221,7 @@
 ### 2023-2024
 
 1. #1 _OWO_ (Regional)
+    - Avanzó a la final mundial y resolvió 4 problemas obtuviendo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
 1. #2 _La última y nos vamos_ (Regional)
 1. #14 _Mathgic_ (Clasificatorio)
 1. #16 _cin>>nombre;_ (Regional)
