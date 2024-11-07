@@ -2,5 +2,6 @@
 
 - Primera fecha: No encontrado
 - [Segunda fecha](segunda_fecha)
-- Repechaje: Pendiente
+- [Tercera fecha](tercera_fecha)
+- [Repechaje](repechaje)
 - Final regional: Pendiente
