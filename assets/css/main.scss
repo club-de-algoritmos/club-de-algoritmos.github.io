@@ -18,6 +18,10 @@ html {
         font-size: 16px !important;
     }
 
+    #main {
+        max-width: 100%;
+    }
+
     // Make the top bar sticky
     body {
         padding-top: 85px !important;
