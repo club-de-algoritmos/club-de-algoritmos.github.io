@@ -27,7 +27,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **5** | **0** | **37** | **35** | **60** |
+| **Total** | **5** | **0** | **38** | **35** | **60** |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
@@ -46,13 +46,13 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 3 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 2 | 2 |
 
 ### 2003-2004
 
 1. #5 _ITAM_ (Regional)
-1. #41 _DAEMONS_ (Regional)
 1. #41 _Rave IT_ (Regional)
+1. #41 _DAEMONS_ (Regional)
 
 ### 2004-2005
 
@@ -99,8 +99,8 @@
 ### 2014-2015
 
 1. #4 _Los románticos_ (Regional)
-1. #1 _Los Románticos_ (Clasificatorio)
 1. #26 _Lords Llama de la Ciencia_ (Regional)
+1. #1 _Los Románticos_ (Clasificatorio)
 1. #42 _RH+_ (Clasificatorio)
 
 ### 2015-2016
@@ -167,7 +167,7 @@
 
 ### 2024-2025
 
-1. #61 _Ya casi stack!!!_ (Clasificatorio)
+1. #39 _Ya casi stack!!!_ (Regional)
 1. #384 _Codemillos_ (Clasificatorio)
 
 

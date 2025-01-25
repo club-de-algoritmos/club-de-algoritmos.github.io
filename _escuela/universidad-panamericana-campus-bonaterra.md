@@ -16,8 +16,8 @@
 1. _AEI_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ArkanianPhoenix_ resolvió 2 problemas y obtuvo el lugar #40 (91%) en The 2023 ICPC Mexico Finals
+1. _UPgraded_ resolvió 5 problemas y obtuvo el lugar #4 (100%) en The 2024 ICPC Mexico Finals
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
-1. _UPsolving_ resolvió 21 problemas y obtuvo el lugar #6 (100%) en The 2024 ICPC Gran Premio de Mexico
 1. _Chicos_Percebe_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2022 ICPC Mexico Finals
 1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
 
@@ -27,7 +27,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **5** | **1** | **37** | **102** | **115** |
+| **Total** | **5** | **1** | **39** | **102** | **115** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
 | [2009-2010](#2009-2010) | 0 | 0 | 1 | 0 | 1 |
@@ -45,7 +45,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 10 | 10 |
 | [2022-2023](#2022-2023) | 1 | 0 | 3 | 14 | 14 |
 | [2023-2024](#2023-2024) | 0 | 1 | 4 | 14 | 14 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 12 | 12 |
 
 ### 2007-2008
 
@@ -94,13 +94,13 @@
 ### 2015-2016
 
 1. #8 _Lla++_ (Regional)
-1. #30 _BRP_ (Clasificatorio)
 1. #30 _dic.h_ (Regional)
+1. #30 _BRP_ (Clasificatorio)
 1. #35 _Los Greñuditos_ (Clasificatorio)
 1. #98 _JEM_ (Clasificatorio)
 1. #108 _#include<RIK.h>_ (Clasificatorio)
-1. #108 _Los indecisos_ (Clasificatorio)
 1. #108 _SEH++_ (Clasificatorio)
+1. #108 _Los indecisos_ (Clasificatorio)
 
 ### 2016-2017
 
@@ -109,9 +109,9 @@
 1. #21 _BRP_ (Clasificatorio)
 1. #26 _dic.h_ (Clasificatorio)
 1. #70 _MJM_ (Clasificatorio)
-1. #121 _Expendables_ (Clasificatorio)
 1. #121 _SEE++_ (Clasificatorio)
 1. #121 _U.P. NES_ (Clasificatorio)
+1. #121 _Expendables_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -208,8 +208,8 @@
 
 ### 2024-2025
 
-1. #6 _UPsolving_ (Clasificatorio)
-1. #8 _UPgraded_ (Clasificatorio)
+1. #4 _UPgraded_ (Regional)
+1. #8 _UPsolving_ (Regional)
 1. #16 _Legion501_ (Clasificatorio)
 1. #47 _ISeePC_ (Clasificatorio)
 1. #74 _The last dance_ (Clasificatorio)

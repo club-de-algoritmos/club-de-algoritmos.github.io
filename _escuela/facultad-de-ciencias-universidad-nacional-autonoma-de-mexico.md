@@ -13,12 +13,12 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
-1. _Rocky IV_ resolvió 26 problemas y obtuvo el lugar #1 (100%) en The 2024 ICPC Gran Premio de Mexico
 1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
+1. _Rocky IV_ resolvió 5 problemas y obtuvo el lugar #3 (100%) en The 2024 ICPC Mexico Finals
 1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Peso Puma_ resolvió 5 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Mexico Finals
 1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
-1. _Britneys Pelonas_ resolvió 18 problemas y obtuvo el lugar #11 (99%) en The 2024 ICPC Gran Premio de Mexico
+1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -26,7 +26,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **20** | **85** | **85** |
+| **Total** | **4** | **0** | **24** | **85** | **85** |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 1 | 0 | 1 | 2 | 2 |
@@ -37,7 +37,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 1 | 0 | 2 | 19 | 19 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
+| [2024-2025](#2024-2025) | 0 | 0 | 4 | 10 | 10 |
 
 ### 2014-2015
 
@@ -89,8 +89,8 @@
 
 1. #2 _PumOMM_ (Regional)
 1. #20 _Pumas+_ (Regional)
-1. #47 _B.I.O.S_ (Clasificatorio)
 1. #54 _Chicas Superpoderosas_ (Regional)
+1. #47 _B.I.O.S_ (Clasificatorio)
 1. #54 _Predators_ (Clasificatorio)
 1. #99 _#include <victory.h>_ (Clasificatorio)
 1. #102 _Quarantined Code_ (Clasificatorio)
@@ -114,8 +114,8 @@
 1. #123 _Valhalla_ (Clasificatorio)
 1. #160 _Los DEVastadores_ (Clasificatorio)
 1. #217 _Arcadian dream_ (Clasificatorio)
-1. #226 _DJL-001_ (Clasificatorio)
 1. #226 _Predators_ (Clasificatorio)
+1. #226 _DJL-001_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -134,11 +134,11 @@
 1. #344 _Caos_ (Clasificatorio)
 1. #358 _Los alusines_ (Clasificatorio)
 1. #361 _the last dance++_ (Clasificatorio)
+1. #382 _Predators_ (Clasificatorio)
 1. #382 _Belicoders_ (Clasificatorio)
+1. #382 _Uijolen_ (Clasificatorio)
 1. #382 _DameGugul_ (Clasificatorio)
 1. #382 _Equipo7 next gen_ (Clasificatorio)
-1. #382 _Predators_ (Clasificatorio)
-1. #382 _Uijolen_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -150,16 +150,16 @@
 
 ### 2024-2025
 
-1. #1 _Rocky IV_ (Clasificatorio)
-1. #11 _Britneys Pelonas_ (Clasificatorio)
-1. #31 _Pumamados_ (Clasificatorio)
-1. #52 _Unicornios Salvajes_ (Clasificatorio)
+1. #3 _Rocky IV_ (Regional)
+1. #22 _Britneys Pelonas_ (Regional)
+1. #31 _Unicornios Salvajes_ (Regional)
+1. #32 _Pumamados_ (Regional)
 1. #371 _No-deterministas_ (Clasificatorio)
 1. #385 _TBA_ (Clasificatorio)
 1. #401 _bravebytes_ (Clasificatorio)
 1. #403 _Tilines FC_ (Clasificatorio)
-1. #482 _Faltos de internship: El siguiente año es el bueno_ (Clasificatorio)
 1. #482 _PMA_ (Clasificatorio)
+1. #482 _Faltos de internship: El siguiente año es el bueno_ (Clasificatorio)
 
 
 

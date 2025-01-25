@@ -6,15 +6,15 @@
 ## Mejores 10 equipos
 
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #7 (99%) en The 2021 ICPC Mexico Finals
+1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #18 (99%) en The 2024 ICPC Mexico Finals
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #13 (98%) en The 2020 ICPC Mexico Finals
-1. _!nullptr_ resolvió 13 problemas y obtuvo el lugar #30 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _¿Qué?_ resolvió 3 problemas y obtuvo el lugar #33 (98%) en The 2019 ICPC Mexico Finals
 1. _!nullptr_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2022 ICPC Mexico Finals
+1. _camel_case_ resolvió 3 problemas y obtuvo el lugar #45 (96%) en The 2024 ICPC Mexico Finals
 1. _Opilimpicos_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #23 (95%) en The 2023 ICPC Mexico Finals
 1. _Equipo_ resolvió 3 problemas y obtuvo el lugar #45 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _js++_ resolvió 1 problemas y obtuvo el lugar #53 (95%) en The 2022 ICPC Mexico Finals
-1. _camel_case_ resolvió 9 problemas y obtuvo el lugar #65 (95%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -22,7 +22,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **11** | **95** | **97** |
+| **Total** | **0** | **0** | **14** | **95** | **97** |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 4 | 4 |
@@ -31,7 +31,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 17 | 17 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 21 | 21 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 14 | 14 |
+| [2024-2025](#2024-2025) | 0 | 0 | 3 | 14 | 14 |
 
 ### 2002-2003
 
@@ -65,10 +65,10 @@
 1. #326 _FC Biome´s_ (Clasificatorio)
 1. #328 _Suzanahorias_ (Clasificatorio)
 1. #373 _Screenprint_ (Clasificatorio)
-1. #382 _Cheatcodes+_ (Clasificatorio)
-1. #382 _Infocompas_ (Clasificatorio)
-1. #382 _Los Lord Llama de la Ciencia_ (Clasificatorio)
 1. #382 _Omega Q-Bits_ (Clasificatorio)
+1. #382 _Los Lord Llama de la Ciencia_ (Clasificatorio)
+1. #382 _Infocompas_ (Clasificatorio)
+1. #382 _Cheatcodes+_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -83,9 +83,9 @@
 1. #289 _timeForce_ (Clasificatorio)
 1. #305 _Code compilers_ (Clasificatorio)
 1. #351 _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ (Clasificatorio)
-1. #351 _GAG_ (Clasificatorio)
 1. #351 _Los nahuales masacuatos adictos al código_ (Clasificatorio)
 1. #351 _SmartDucks_ (Clasificatorio)
+1. #351 _GAG_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -93,8 +93,8 @@
 1. #127 _NaN_ (Clasificatorio)
 1. #181 _Nopers_ (Clasificatorio)
 1. #206 _NameNotFoundException_ (Clasificatorio)
-1. #226 _Los Pixis_ (Clasificatorio)
 1. #226 _timeForce_ (Clasificatorio)
+1. #226 _Los Pixis_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -142,11 +142,11 @@
 
 ### 2024-2025
 
-1. #30 _!nullptr_ (Clasificatorio)
-1. #65 _camel_case_ (Clasificatorio)
+1. #18 _!nullptr_ (Regional)
+1. #45 _camel_case_ (Regional)
+1. #101 _Alivianame con una funa_ (Regional)
 1. #138 _Chaotics_ (Clasificatorio)
 1. #149 _MothSteppers_ (Clasificatorio)
-1. #167 _Alivianame con una funa_ (Clasificatorio)
 1. #175 _Dynamic Girls_ (Clasificatorio)
 1. #259 _Los del Ciber_ (Clasificatorio)
 1. #363 _Oseloth_ (Clasificatorio)

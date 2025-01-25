@@ -21,8 +21,8 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Escoders_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _No se nos ocurrio un nombre_ resolvió 22 problemas y obtuvo el lugar #2 (100%) en The 2024 ICPC Gran Premio de Mexico
-1. _Enchiladas con patas_ resolvió 23 problemas y obtuvo el lugar #3 (100%) en The 2024 ICPC Gran Premio de Mexico
+1. _Enchiladas con patas_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2024 ICPC Mexico Finals
+1. _No se nos ocurrio un nombre_ resolvió 6 problemas y obtuvo el lugar #2 (100%) en The 2024 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -30,7 +30,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **8** | **0** | **68** | **203** | **238** |
+| **Total** | **8** | **0** | **73** | **203** | **238** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -53,7 +53,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 5 | 11 | 12 |
 | [2022-2023](#2022-2023) | 1 | 0 | 5 | 27 | 27 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 28 | 28 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 27 | 27 |
+| [2024-2025](#2024-2025) | 0 | 0 | 5 | 27 | 27 |
 
 ### 2001-2002
 
@@ -73,8 +73,8 @@
 
 1. #7 _ESCOM UNO_ (Regional)
 1. #51 _ESCOM DOS_ (Regional)
-1. #90 _ESCOM A_ (Regional)
 1. #90 _ESCOM B_ (Regional)
+1. #90 _ESCOM A_ (Regional)
 
 ### 2005-2006
 
@@ -151,23 +151,23 @@
 1. #41 _House of Code_ (Clasificatorio)
 1. #99 _Rho Omega Rho_ (Clasificatorio)
 1. #107 _Momos++_ (Clasificatorio)
-1. #107 _Quoda_ (Clasificatorio)
 1. #107 _TanKeZ_ (Clasificatorio)
 1. #107 _The Punishers_ (Clasificatorio)
+1. #107 _Quoda_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #4 _New avengers_ (Regional)
 1. #10 _Quetzal.h_ (Regional)
+1. #25 _Cooperativa Pascal_ (Regional)
 1. #18 _Jaguar_ (Clasificatorio)
 1. #23 _Los papus pro_ (Clasificatorio)
 1. #24 _Wolves of Codestreet_ (Clasificatorio)
-1. #25 _Cooperativa Pascal_ (Regional)
 1. #42 _Los Chimpantásticos_ (Clasificatorio)
 1. #45 _Quoda:_ (Clasificatorio)
 1. #71 _TheCodeLeague_ (Clasificatorio)
-1. #121 _Adaline_ (Clasificatorio)
 1. #121 _Los Exiliados_ (Clasificatorio)
+1. #121 _Adaline_ (Clasificatorio)
 1. #121 _New Team_ (Clasificatorio)
 1. #121 _Xirosame_ (Clasificatorio)
 
@@ -250,12 +250,12 @@
 
 1. #7 _Cámara Ya Súbelo Asi w_ (Regional)
 1. #8 _Escuela Superior de Comedia_ (Regional)
-1. #15 _Los Hermanos Computadores de Paine_ (Clasificatorio)
 1. #16 _Trololololo_ (Regional)
+1. #48 _return t + d + a;_ (Regional)
+1. #15 _Los Hermanos Computadores de Paine_ (Clasificatorio)
+1. #60 _Norman is Hunting [2019-2020]_ (Regional)
 1. #25 _AC Forever_ (Clasificatorio)
 1. #41 _ANSIosos_ (Clasificatorio)
-1. #48 _return t + d + a;_ (Regional)
-1. #60 _Norman is Hunting [2019-2020]_ (Regional)
 1. #77 _Gunters_ (Clasificatorio)
 1. #86 _#include<ABD>_ (Clasificatorio)
 1. #88 _El holandés errante_ (Clasificatorio)
@@ -267,11 +267,11 @@
 1. #1 _Chilaquiles con pollo_ (Regional)
     - Avanzó a la final mundial y resolvió 6 problemas obtuviendo el lugar #26 (80%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. #13 _Discípulos de Marckess_ (Regional)
-1. #18 _AC Forever_ (Clasificatorio)
 1. #32 _dESCOMulgados by Marckess_ (Regional)
 1. #44 _return t + d + a;_ (Regional)
-1. #47 _Redstone Engineers_ (Clasificatorio)
 1. #55 _Team Microsoft_ (Regional)
+1. #18 _AC Forever_ (Clasificatorio)
+1. #47 _Redstone Engineers_ (Clasificatorio)
 1. #83 _Anti Coding Coding Club _ (Clasificatorio)
 1. #107 _lasCuries_ (Clasificatorio)
 1. #110 _DonkeySquad_ (Clasificatorio)
@@ -283,12 +283,12 @@
 1. #4 _Exceso de Fé_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. #8 _AC Forever_ (Regional)
-1. #13 _dESCOMprimidos.zip_ (Clasificatorio)
 1. #21 _Crustáceos Cascarudos_ (Regional)
 1. #27 _To ICPC and beyond_ (Regional)
+1. #35 _Schrodinger's AC_ (Regional)
+1. #13 _dESCOMprimidos.zip_ (Clasificatorio)
 1. #29 _DBD crew_ (Clasificatorio)
 1. #32 _Shark DJ en MPTres_ (Clasificatorio)
-1. #35 _Schrodinger's AC_ (Regional)
 1. #90 _Huevito con catsun_ (Clasificatorio)
 1. #101 _return AC;_ (Clasificatorio)
 1. #102 _lasCuries_ (Clasificatorio)
@@ -297,16 +297,16 @@
 1. #311 _RAMA_ (Clasificatorio)
 1. #312 _Las chicas del barrio_ (Clasificatorio)
 1. #332 _Pandora_ (Clasificatorio)
-1. #382 _AC fan club_ (Clasificatorio)
+1. #382 _Escultores de código_ (Clasificatorio)
+1. #382 _Los ANSI-osos_ (Clasificatorio)
 1. #382 _Bugged Coders_ (Clasificatorio)
 1. #382 _C++dos_ (Clasificatorio)
-1. #382 _Escultores de código_ (Clasificatorio)
-1. #382 _LasMotomamis_ (Clasificatorio)
-1. #382 _Los ANSI-osos_ (Clasificatorio)
 1. #382 _Los Chachalacos_ (Clasificatorio)
 1. #382 _Newbies Hardstuck_ (Clasificatorio)
-1. #382 _Newbies Hardstuck V3_ (Clasificatorio)
+1. #382 _AC fan club_ (Clasificatorio)
+1. #382 _LasMotomamis_ (Clasificatorio)
 1. #382 _Trikitrakatelas_ (Clasificatorio)
+1. #382 _Newbies Hardstuck V3_ (Clasificatorio)
 1. #382 _dESCOMtrolados_ (Clasificatorio)
 
 ### 2023-2024
@@ -342,11 +342,13 @@
 
 ### 2024-2025
 
-1. #2 _No se nos ocurrio un nombre_ (Clasificatorio)
-1. #3 _Enchiladas con patas_ (Clasificatorio)
-1. #15 _Testigos de Galois_ (Clasificatorio)
+1. #1 _Enchiladas con patas_ (Regional)
+1. #2 _No se nos ocurrio un nombre_ (Regional)
+1. #9 _Testigos de Galois_ (Regional)
+1. #23 _Nos robamos a Miguel_ (Regional)
 1. #39 _Taquitos de pastor_ (Clasificatorio)
 1. #50 _Los pusuas_ (Clasificatorio)
+1. #114 _Chilaquiles con Pollo Masters_ (Regional)
 1. #71 _C--_ (Clasificatorio)
 1. #92 _The creators_ (Clasificatorio)
 1. #93 _HEArt of AC_ (Clasificatorio)
@@ -365,9 +367,7 @@
 1. #388 _Tacos de asada_ (Clasificatorio)
 1. #402 _3 devs,1 paste_ (Clasificatorio)
 1. #408 _tilines_ (Clasificatorio)
-1. #482 _Chilaquiles con Pollo Masters_ (Clasificatorio)
 1. #482 _DP (DosdePastor)_ (Clasificatorio)
-1. #482 _Nos robamos a Miguel_ (Clasificatorio)
 1. #482 _Wacales_ (Clasificatorio)
 
 

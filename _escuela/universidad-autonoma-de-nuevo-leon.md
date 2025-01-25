@@ -11,13 +11,13 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2021 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
-1. _Tigres.cpp_ resolvió 17 problemas y obtuvo el lugar #9 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2020 ICPC Mexico Finals
 1. _ACE_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Mexico Finals
 1. _nu1l_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2022 ICPC Mexico Finals
 1. _TriAda_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2019 ICPC Mexico Finals
 1. _Los Irmos_ resolvió 3 problemas y obtuvo el lugar #3 (98%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Los Irmos_ resolvió 2 problemas y obtuvo el lugar #3 (98%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Tigres.cpp_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2024 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -25,7 +25,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **3** | **0** | **56** | **107** | **147** |
+| **Total** | **3** | **0** | **58** | **107** | **147** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
@@ -49,7 +49,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 23 | 23 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 14 | 14 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 27 | 27 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 27 | 27 |
 
 ### 2001-2002
 
@@ -66,8 +66,8 @@
 ### 2003-2004
 
 1. #3 _Los Irmos_ (Regional)
-1. #41 _Noname00_ (Regional)
 1. #41 _Y donde esta el suplente?_ (Regional)
+1. #41 _Noname00_ (Regional)
 
 ### 2004-2005
 
@@ -100,8 +100,8 @@
 
 ### 2009-2010
 
-1. #116 _Javax_ (Regional)
 1. #116 _NetSOFt_ (Regional)
+1. #116 _Javax_ (Regional)
 
 ### 2010-2011
 
@@ -113,8 +113,8 @@
 1. #8 _SOS_ (Regional)
 1. #27 _NibbleSOFt_ (Regional)
 1. #30 _NPCs_ (Regional)
-1. #104 _Ascii Bit_ (Regional)
 1. #104 _Rebel Alliance_ (Regional)
+1. #104 _Ascii Bit_ (Regional)
 
 ### 2012-2013
 
@@ -166,9 +166,9 @@
 1. #240 _Los Herederos de Solís_ (Clasificatorio)
 1. #300 _Grizzlies_ (Clasificatorio)
 1. #335 _Syntax Error_ (Clasificatorio)
+1. #382 _MMA_ (Clasificatorio)
 1. #382 _Ayuwoscript_ (Clasificatorio)
 1. #382 _Emu Nerds_ (Clasificatorio)
-1. #382 _MMA_ (Clasificatorio)
 1. #382 _Team Emperador_ (Clasificatorio)
 
 ### 2020-2021
@@ -195,10 +195,10 @@
 1. #138 _Etas_ (Clasificatorio)
 1. #226 _Bit Signs_ (Clasificatorio)
 1. #226 _C Power_ (Clasificatorio)
-1. #226 _Cheems_ (Clasificatorio)
 1. #226 _JOD_ (Clasificatorio)
 1. #226 _Los Wookies de Slytherin_ (Clasificatorio)
 1. #226 _Team Emperador_ (Clasificatorio)
+1. #226 _Cheems_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -220,11 +220,11 @@
 1. #353 _FastCode_ (Clasificatorio)
 1. #357 _Estresados Check_ (Clasificatorio)
 1. #368 _Bisontes FCFM_ (Clasificatorio)
-1. #382 _C+MATH_ (Clasificatorio)
-1. #382 _Las superpoderosas_ (Clasificatorio)
-1. #382 _Lechuzas bebés_ (Clasificatorio)
 1. #382 _Los saraperos_ (Clasificatorio)
+1. #382 _C+MATH_ (Clasificatorio)
 1. #382 _The coders_ (Clasificatorio)
+1. #382 _Lechuzas bebés_ (Clasificatorio)
+1. #382 _Las superpoderosas_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -245,8 +245,8 @@
 
 ### 2024-2025
 
-1. #9 _Tigres.cpp_ (Clasificatorio)
-1. #69 _NSP_ (Clasificatorio)
+1. #20 _Tigres.cpp_ (Regional)
+1. #70 _NSP_ (Regional)
 1. #94 _Machines Ant Killer_ (Clasificatorio)
 1. #97 _JAM64_ (Clasificatorio)
 1. #115 _Code Repairers_ (Clasificatorio)
@@ -269,8 +269,8 @@
 1. #474 _AWA.py_ (Clasificatorio)
 1. #475 _CODE 5-3_ (Clasificatorio)
 1. #482 _3HDD_ (Clasificatorio)
-1. #482 _Axioma.exe_ (Clasificatorio)
 1. #482 _Kappa_ (Clasificatorio)
+1. #482 _Axioma.exe_ (Clasificatorio)
 1. #482 _LCCMonkeys_ (Clasificatorio)
 
 

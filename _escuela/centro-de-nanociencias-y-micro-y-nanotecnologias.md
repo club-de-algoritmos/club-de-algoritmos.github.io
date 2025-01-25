@@ -6,13 +6,13 @@
 ## Mejores 10 equipos
 
 1. _Sereno El Fullereno_ resolvió 4 problemas y obtuvo el lugar #13 (99%) en The 2022 ICPC Mexico Finals
-1. _Tutters_ resolvió 12 problemas y obtuvo el lugar #33 (97%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tutters_ resolvió 4 problemas y obtuvo el lugar #37 (97%) en The 2024 ICPC Mexico Finals
 1. _Hijos de Turing_ resolvió 4 problemas y obtuvo el lugar #28 (96%) en The 2020 ICPC Mexico Finals
 1. _Sereno el Fullereno_ resolvió 3 problemas y obtuvo el lugar #25 (95%) en The 2021 ICPC Mexico Finals
 1. _Sereno El Fullereno_ resolvió 2 problemas y obtuvo el lugar #45 (90%) en The 2023 ICPC Mexico Finals
-1. _int bellakos = 3;_ resolvió 5 problemas y obtuvo el lugar #136 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _int bellakos = 3;_ resolvió 5 problemas y obtuvo el lugar #136 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _Programamis_ resolvió 5 problemas y obtuvo el lugar #143 (86%) en The 2022 ICPC Gran Premio de Mexico
-1. _Bypass Space_ resolvió 4 problemas y obtuvo el lugar #152 (86%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bypass Space_ resolvió 4 problemas y obtuvo el lugar #152 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _Programamis_ resolvió 6 problemas y obtuvo el lugar #81 (82%) en The 2023 ICPC Gran Premio de Mexico
 1. _Ángstroms_ resolvió 2 problemas y obtuvo el lugar #134 (72%) en The 2021 ICPC Gran Premio de Mexico
 
@@ -22,12 +22,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **4** | **15** | **15** |
+| **Total** | **0** | **0** | **5** | **15** | **15** |
 | [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 
 ### 2020-2021
 
@@ -55,7 +55,7 @@
 
 ### 2024-2025
 
-1. #33 _Tutters_ (Clasificatorio)
+1. #37 _Tutters_ (Regional)
 1. #455 _java.lieron_ (Clasificatorio)
 1. #482 _Linfocitos NK_ (Clasificatorio)
 

@@ -13,7 +13,7 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. _U de G ACM Problem Solvers_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
-1. _Motomomis_ resolvió 22 problemas y obtuvo el lugar #7 (100%) en The 2024 ICPC Gran Premio de Mexico
+1. _Motomomis_ resolvió 5 problemas y obtuvo el lugar #5 (100%) en The 2024 ICPC Mexico Finals
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 5 problemas y obtuvo el lugar #10 (98%) en The 2023 ICPC Mexico Finals
@@ -26,7 +26,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **74** | **181** | **234** |
+| **Total** | **4** | **0** | **77** | **181** | **234** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 0 | 0 | 8 | 0 | 8 |
@@ -49,7 +49,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 3 | 7 | 7 |
 | [2022-2023](#2022-2023) | 1 | 0 | 5 | 26 | 26 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 19 | 19 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 39 | 39 |
+| [2024-2025](#2024-2025) | 0 | 0 | 3 | 39 | 39 |
 
 ### 2002-2003
 
@@ -60,9 +60,9 @@
 
 1. #11 _Ciberleones de Guadalajara_ (Regional)
 1. #18 _Digital Advance_ (Regional)
+1. #41 _Patitox CUCEI_ (Regional)
 1. #41 _Leones Negros_ (Regional)
 1. #41 _Leones Rechazados_ (Regional)
-1. #41 _Patitox CUCEI_ (Regional)
 
 ### 2004-2005
 
@@ -104,9 +104,9 @@
 ### 2008-2009
 
 1. #38 _ACM PROBLEM SOLVERS_ (Regional)
+1. #101 _The Creepers_ (Regional)
 1. #101 _Leones Negros_ (Regional)
 1. #101 _Swordfish_ (Regional)
-1. #101 _The Creepers_ (Regional)
 
 ### 2009-2010
 
@@ -141,10 +141,10 @@
 ### 2014-2015
 
 1. #20 _Astrum_ (Regional)
-1. #6 _Astrum****_ (Clasificatorio)
 1. #32 _Épsilon_ (Regional)
 1. #39 _Oasis_ (Regional)
 1. #51 _Chomsky's_ (Regional)
+1. #6 _Astrum****_ (Clasificatorio)
 1. #72 _Épsilon****_ (Clasificatorio)
 1. #75 _Epic Team_ (Clasificatorio)
 1. #85 _Floyd****_ (Clasificatorio)
@@ -163,34 +163,34 @@
 1. #93 _Error404_ (Clasificatorio)
 1. #108 _7cry_ (Clasificatorio)
 1. #108 _ASD_ (Clasificatorio)
-1. #108 _Beep_ (Clasificatorio)
 1. #108 _Floyd_ (Clasificatorio)
+1. #108 _XD_ (Clasificatorio)
+1. #108 _Pr0d1g10s_ (Clasificatorio)
 1. #108 _MJDcode_ (Clasificatorio)
 1. #108 _Pitagóricos_ (Clasificatorio)
-1. #108 _Pr0d1g10s_ (Clasificatorio)
 1. #108 _Team Turing_ (Clasificatorio)
-1. #108 _XD_ (Clasificatorio)
+1. #108 _Beep_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #29 _Entscheidungsteam_ (Regional)
-1. #121 _Arcade_ (Clasificatorio)
-1. #121 _DOC TEAM_ (Clasificatorio)
-1. #121 _Desarrolladores Anónimos_ (Clasificatorio)
 1. #121 _Evelia & Friends_ (Clasificatorio)
-1. #121 _Faith_ (Clasificatorio)
-1. #121 _Hackerman's_ (Clasificatorio)
-1. #121 _Injustice_ (Clasificatorio)
-1. #121 _Key_ (Clasificatorio)
-1. #121 _Los amos del universo_ (Clasificatorio)
+1. #121 _Arcade_ (Clasificatorio)
+1. #121 _Desarrolladores Anónimos_ (Clasificatorio)
+1. #121 _DOC TEAM_ (Clasificatorio)
+1. #121 _eagle eye_ (Clasificatorio)
 1. #121 _Los obsesionados_ (Clasificatorio)
-1. #121 _MJDcode_ (Clasificatorio)
-1. #121 _No more time LEE_ (Clasificatorio)
+1. #121 _Salamandras Verdes_ (Clasificatorio)
+1. #121 _Injustice_ (Clasificatorio)
+1. #121 _Faith_ (Clasificatorio)
 1. #121 _Pitagoricos_ (Clasificatorio)
 1. #121 _Salamandras Azules_ (Clasificatorio)
-1. #121 _Salamandras Verdes_ (Clasificatorio)
+1. #121 _MJDcode_ (Clasificatorio)
 1. #121 _Thestrals_ (Clasificatorio)
-1. #121 _eagle eye_ (Clasificatorio)
+1. #121 _No more time LEE_ (Clasificatorio)
+1. #121 _Hackerman's_ (Clasificatorio)
+1. #121 _Los amos del universo_ (Clasificatorio)
+1. #121 _Key_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -203,10 +203,10 @@
 1. #263 _BAM_ (Clasificatorio)
 1. #266 _For Lack of a Better Name_ (Clasificatorio)
 1. #405 _Entscheidungsteam_ (Clasificatorio)
+1. #405 _Team DooM_ (Clasificatorio)
+1. #405 _Ronin_ (Clasificatorio)
 1. #405 _Gearpower_ (Clasificatorio)
 1. #405 _Los Linces_ (Clasificatorio)
-1. #405 _Ronin_ (Clasificatorio)
-1. #405 _Team DooM_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -218,9 +218,9 @@
 1. #301 _NULL_ (Clasificatorio)
 1. #370 _Porygon++_ (Clasificatorio)
 1. #395 _Alarjess_ (Clasificatorio)
-1. #395 _D de Diosito_ (Clasificatorio)
-1. #395 _Desintegradores de almas_ (Clasificatorio)
 1. #395 _La Manzana De Dana_ (Clasificatorio)
+1. #395 _Desintegradores de almas_ (Clasificatorio)
+1. #395 _D de Diosito_ (Clasificatorio)
 
 ### 2019-2020
 
@@ -237,10 +237,10 @@
 1. #296 _Don(Al)2_ (Clasificatorio)
 1. #298 _Los Scooby y el Misterio de la Programación_ (Clasificatorio)
 1. #382 _Chilaquilovers_ (Clasificatorio)
-1. #382 _G_Hopper_ (Clasificatorio)
-1. #382 _Put_Infos_ (Clasificatorio)
 1. #382 _The Endurance_ (Clasificatorio)
+1. #382 _G_Hopper_ (Clasificatorio)
 1. #382 _Wozniak_ (Clasificatorio)
+1. #382 _Put_Infos_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -284,15 +284,15 @@
 1. #329 _HelloLed_ (Clasificatorio)
 1. #367 _Los inadaptados_ (Clasificatorio)
 1. #382 _Bye bye byte_ (Clasificatorio)
-1. #382 _Code Masters_ (Clasificatorio)
-1. #382 _Los magos del barrio_ (Clasificatorio)
 1. #382 _Sons Of Tanenbaum_ (Clasificatorio)
-1. #382 _Torombolos_ (Clasificatorio)
-1. #382 _UdGod_ (Clasificatorio)
-1. #382 _Uploading..._ (Clasificatorio)
-1. #382 _XOXO_ (Clasificatorio)
 1. #382 _system32_ (Clasificatorio)
+1. #382 _Los magos del barrio_ (Clasificatorio)
+1. #382 _Torombolos_ (Clasificatorio)
+1. #382 _Uploading..._ (Clasificatorio)
 1. #382 _telematicos_ (Clasificatorio)
+1. #382 _Code Masters_ (Clasificatorio)
+1. #382 _UdGod_ (Clasificatorio)
+1. #382 _XOXO_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -318,9 +318,9 @@
 
 ### 2024-2025
 
-1. #7 _Motomomis_ (Clasificatorio)
-1. #29 _Con el maximum flow_ (Clasificatorio)
-1. #48 _Dead Developers Society_ (Clasificatorio)
+1. #5 _Motomomis_ (Regional)
+1. #42 _Con el maximum flow_ (Regional)
+1. #44 _Dead Developers Society_ (Regional)
 1. #105 _Enchiladas Verdes_ (Clasificatorio)
 1. #112 _Segfaulters_ (Clasificatorio)
 1. #136 _SkibidiToilets_ (Clasificatorio)
@@ -345,18 +345,18 @@
 1. #454 _Ingenebrios_ (Clasificatorio)
 1. #457 _Static-Boys_ (Clasificatorio)
 1. #468 _Jeroglificos_ (Clasificatorio)
-1. #482 _Adictos al WA_ (Clasificatorio)
-1. #482 _Codigos Tumbados_ (Clasificatorio)
 1. #482 _Compiler Crushers_ (Clasificatorio)
-1. #482 _Dead Developer's Society_ (Clasificatorio)
+1. #482 _SyntaxSquad_ (Clasificatorio)
+1. #482 _Root Users_ (Clasificatorio)
+1. #482 _Pura ex P6_ (Clasificatorio)
 1. #482 _Destructores Macisos de Algoritmos_ (Clasificatorio)
+1. #482 _Trodones_ (Clasificatorio)
+1. #482 _Dead Developer's Society_ (Clasificatorio)
+1. #482 _Adictos al WA_ (Clasificatorio)
 1. #482 _Maximum flow_ (Clasificatorio)
 1. #482 _Not BBC_ (Clasificatorio)
-1. #482 _Pura ex P6_ (Clasificatorio)
-1. #482 _Root Users_ (Clasificatorio)
 1. #482 _SkibidiPapus_ (Clasificatorio)
-1. #482 _SyntaxSquad_ (Clasificatorio)
-1. #482 _Trodones_ (Clasificatorio)
+1. #482 _Codigos Tumbados_ (Clasificatorio)
 
 
 

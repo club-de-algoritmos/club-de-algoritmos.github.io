@@ -5,9 +5,9 @@
 
 ## Mejores 10 equipos
 
-1. _CEBJY_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _HalconesTesco_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Noble Team_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CEBJY_ obtuvo el lugar #382 (58%) en Gran Premio de Mexico 2019
+1. _Noble Team_ obtuvo el lugar #382 (58%) en Gran Premio de Mexico 2019
+1. _HalconesTesco_ obtuvo el lugar #382 (15%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -21,8 +21,8 @@
 ### 2019-2020
 
 1. #382 _CEBJY_ (Clasificatorio)
-1. #382 _HalconesTesco_ (Clasificatorio)
 1. #382 _Noble Team_ (Clasificatorio)
+1. #382 _HalconesTesco_ (Clasificatorio)
 
 
 

@@ -10,11 +10,11 @@
 1. _LAVANDA NORTEÑA_ resolvió 2 problemas y obtuvo el lugar #35 (97%) en The 2019 ICPC Mexico Finals
 1. _LA MAFIA DEL PODER_ resolvió 1 problemas y obtuvo el lugar #42 (97%) en The 2019 ICPC Mexico Finals
 1. _twt_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _turing incompleto_ resolvió 2 problemas y obtuvo el lugar #31 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _M@C'nificas _ resolvió 2 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Mexico Finals
-1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (96%) en Gran Premio de Mexico 2019
 1. _Burst Programming_ resolvió 2 problemas y obtuvo el lugar #10 (95%) en The 2013 Mexico & Central America Regional Contest
+1. _turing incompleto_ resolvió 2 problemas y obtuvo el lugar #31 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Lavanda Norteña_ resolvió 3 problemas y obtuvo el lugar #33 (95%) en The 2020 ICPC Mexico Finals
+1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -22,7 +22,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **28** | **54** | **64** |
+| **Total** | **0** | **0** | **29** | **54** | **64** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -37,7 +37,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
 
 ### 2007-2008
 
@@ -77,8 +77,8 @@
 1. #61 _The orden of the T-Rex_ (Regional)
 1. #75 _Dinamita_ (Clasificatorio)
 1. #95 _e^z_ (Clasificatorio)
-1. #121 _NOLASTNAME 404_ (Clasificatorio)
 1. #121 _Parálisis Permanente_ (Clasificatorio)
+1. #121 _NOLASTNAME 404_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -104,8 +104,8 @@
 1. #70 _RE100TE_ (Clasificatorio)
 1. #72 _PONJO_ (Clasificatorio)
 1. #74 _ac@tlecos_ (Clasificatorio)
-1. #382 _FIRECODE_ (Clasificatorio)
 1. #382 _NOC++_ (Clasificatorio)
+1. #382 _FIRECODE_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -143,7 +143,7 @@
 
 ### 2024-2025
 
-1. #90 _Chinches Programadoras_ (Clasificatorio)
+1. #85 _Chinches Programadoras_ (Regional)
 1. #207 _Sin_Nombre_ (Clasificatorio)
 1. #228 _MAC-Queens_ (Clasificatorio)
 1. #482 _CtrlCastle_ (Clasificatorio)

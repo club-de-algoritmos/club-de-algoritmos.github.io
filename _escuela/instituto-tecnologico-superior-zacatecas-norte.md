@@ -5,16 +5,16 @@
 
 ## Mejores 10 equipos
 
-1. _Pandilla_ resolvió 5 problemas y obtuvo el lugar #145 (89%) en Gran Premio de Mexico 2019
-1. _Umizoomi_ resolvió 5 problemas y obtuvo el lugar #216 (82%) en The 2024 ICPC Gran Premio de Mexico
-1. _Rino_ resolvió 5 problemas y obtuvo el lugar #221 (82%) en The 2024 ICPC Gran Premio de Mexico
+1. _Umizoomi_ resolvió 0 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
+1. _Pandilla_ resolvió 5 problemas y obtuvo el lugar #145 (88%) en Gran Premio de Mexico 2019
 1. _Cytma_ resolvió 2 problemas y obtuvo el lugar #233 (82%) en Gran Premio de Mexico 2019
-1. _Coyote13_ resolvió 5 problemas y obtuvo el lugar #126 (81%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Codeboys_ resolvió 4 problemas y obtuvo el lugar #227 (81%) en The 2024 ICPC Gran Premio de Mexico
+1. _Rino_ resolvió 5 problemas y obtuvo el lugar #221 (81%) en The 2024 ICPC Gran Premio de Mexico
+1. _Codeboys_ resolvió 4 problemas y obtuvo el lugar #227 (80%) en The 2024 ICPC Gran Premio de Mexico
 1. _Coyotes Guerreros_ resolvió 2 problemas y obtuvo el lugar #278 (78%) en Gran Premio de Mexico 2019
-1. _Coyote 14_ resolvió 4 problemas y obtuvo el lugar #154 (77%) en Gran Premio de Mexico 2018
-1. _Coyote 13_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _La Onda_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Coyote13_ resolvió 5 problemas y obtuvo el lugar #126 (77%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Coyote 14_ resolvió 4 problemas y obtuvo el lugar #154 (76%) en Gran Premio de Mexico 2018
+1. _Los PROgramadores_ resolvió 6 problemas y obtuvo el lugar #174 (75%) en Gran Premio de Mexico 2020
+1. _Irresponsables_ resolvió 1 problemas y obtuvo el lugar #316 (75%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -22,20 +22,20 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **32** | **32** |
+| **Total** | **0** | **0** | **1** | **32** | **32** |
 | [2016-2017](#2016-2017) | 0 | 0 | 0 | 3 | 3 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 6 | 6 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 5 | 5 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 8 | 8 |
 
 ### 2016-2017
 
+1. #121 (#22 de TecNM) _Team 9_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Coyote 13_ (Clasificatorio)
 1. #121 (#22 de TecNM) _La Onda_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Team 9_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -75,14 +75,14 @@
 
 ### 2024-2025
 
-1. #216 (#41 de TecNM) _Umizoomi_ (Clasificatorio)
+1. #113 (#22 de TecNM) _Umizoomi_ (Regional)
 1. #221 (#42 de TecNM) _Rino_ (Clasificatorio)
 1. #227 (#44 de TecNM) _Codeboys_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Los Panchos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Lupita's Coding Team_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los Pixies_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los Reyes del Norte_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Panchos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los Tres Huastecos_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Lupita's Coding Team_ (Clasificatorio)
 
 
 

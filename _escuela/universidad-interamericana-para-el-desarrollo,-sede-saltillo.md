@@ -5,7 +5,7 @@
 
 ## Mejores 10 equipos
 
-1. _Lobos Rojos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Lobos Rojos_ resolvió 0 problemas y obtuvo el lugar #121 (67%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

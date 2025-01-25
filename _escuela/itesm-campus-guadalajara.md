@@ -7,15 +7,15 @@
 
 1. _Borregos Salvajes_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2023 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
-1. _Borregos(0,0,0);_ resolvió 16 problemas y obtuvo el lugar #18 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tsurus Tuneados_ resolvió 3 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Mexico Finals
 1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
-1. _Keyboard Warriors_ resolvió 5 problemas y obtuvo el lugar #45 (96%) en The 2024 ICPC Gran Premio de Mexico
+1. _Keyboard Warriors_ resolvió 4 problemas y obtuvo el lugar #27 (98%) en The 2024 ICPC Mexico Finals
+1. _Borregos(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #30 (98%) en The 2024 ICPC Mexico Finals
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
 1. _Tec GDL 10_ resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
 1. _Galácticos 1_ resolvió 8 problemas y obtuvo el lugar #71 (94%) en Gran Premio de Mexico 2019
-1. _Los Hamsters enviados de Dios del Antiguo Testamento_ resolvió 10 problemas y obtuvo el lugar #75 (94%) en The 2024 ICPC Gran Premio de Mexico
 1. _Acrux Exclamation_ resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _McTrio_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **1** | **49** | **61** | **102** |
+| **Total** | **1** | **1** | **51** | **61** | **102** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -44,7 +44,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 1 | 1 | 3 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 7 | 7 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
 
 ### 2001-2002
 
@@ -53,8 +53,8 @@
 ### 2002-2003
 
 1. #10 (#4 de ITESM) _Aleph_ (Regional)
-1. #27 (#10 de ITESM) _Lambda_ (Regional)
 1. #27 (#10 de ITESM) _Rookies_ (Regional)
+1. #27 (#10 de ITESM) _Lambda_ (Regional)
 
 ### 2003-2004
 
@@ -85,18 +85,18 @@
 1. #40 (#11 de ITESM) _LOL_ (Regional)
 1. #47 (#13 de ITESM) _F@st Code_ (Regional)
 1. #49 (#15 de ITESM) _Fatal Error_ (Regional)
-1. #61 (#19 de ITESM) _Bunkers_ (Regional)
-1. #61 (#19 de ITESM) _Coleopteros_ (Regional)
-1. #61 (#19 de ITESM) _Corvus Albus_ (Regional)
-1. #61 (#19 de ITESM) _Drunk Team_ (Regional)
-1. #61 (#19 de ITESM) _ENCA_ (Regional)
-1. #61 (#19 de ITESM) _Electric Six_ (Regional)
-1. #61 (#19 de ITESM) _Fenix_ (Regional)
-1. #61 (#19 de ITESM) _Los cubanos_ (Regional)
 1. #61 (#19 de ITESM) _Revolucionarios_ (Regional)
 1. #61 (#19 de ITESM) _Salamandra_ (Regional)
-1. #61 (#19 de ITESM) _Tecuciztecatl_ (Regional)
+1. #61 (#19 de ITESM) _Coleopteros_ (Regional)
+1. #61 (#19 de ITESM) _Corvus Albus_ (Regional)
+1. #61 (#19 de ITESM) _Fenix_ (Regional)
+1. #61 (#19 de ITESM) _Drunk Team_ (Regional)
+1. #61 (#19 de ITESM) _ENCA_ (Regional)
+1. #61 (#19 de ITESM) _Bunkers_ (Regional)
+1. #61 (#19 de ITESM) _Electric Six_ (Regional)
 1. #61 (#19 de ITESM) _VL-2000_ (Regional)
+1. #61 (#19 de ITESM) _Los cubanos_ (Regional)
+1. #61 (#19 de ITESM) _Tecuciztecatl_ (Regional)
 
 ### 2008-2009
 
@@ -128,12 +128,12 @@
 
 ### 2015-2016
 
-1. #108 (#26 de ITESM) _Algoritmia_ (Clasificatorio)
-1. #108 (#26 de ITESM) _DMA_ (Clasificatorio)
-1. #108 (#26 de ITESM) _Develobabes_ (Clasificatorio)
 1. #108 (#26 de ITESM) _Los Sukulen_ (Clasificatorio)
-1. #108 (#26 de ITESM) _NextGen_ (Clasificatorio)
 1. #108 (#26 de ITESM) _Pythonlovers_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Algoritmia_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Develobabes_ (Clasificatorio)
+1. #108 (#26 de ITESM) _NextGen_ (Clasificatorio)
+1. #108 (#26 de ITESM) _DMA_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -187,9 +187,9 @@
 1. #18 (#1 de ITESM) _Tsurus Tuneados_ (Regional)
 1. #174 (#17 de ITESM) _Java lieron_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Bubble sorters_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Maraca_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Chiles Poblanos Poblanos_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Edgerunners_ (Clasificatorio)
-1. #382 (#55 de ITESM) _Maraca_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Pozole de Oompa Loompas_ (Clasificatorio)
 1. #382 (#55 de ITESM) _SJF_ (Clasificatorio)
 
@@ -204,8 +204,8 @@
 
 ### 2024-2025
 
-1. #18 (#2 de ITESM) _Borregos(0,0,0);_ (Clasificatorio)
-1. #45 (#8 de ITESM) _Keyboard Warriors_ (Clasificatorio)
+1. #27 (#5 de ITESM) _Keyboard Warriors_ (Regional)
+1. #30 (#6 de ITESM) _Borregos(0,0,0);_ (Regional)
 1. #75 (#14 de ITESM) _Los Hamsters enviados de Dios del Antiguo Testamento_ (Clasificatorio)
 1. #271 (#43 de ITESM) _Bubble sorters_ (Clasificatorio)
 1. #283 (#45 de ITESM) _Changos articos en c# menor_ (Clasificatorio)

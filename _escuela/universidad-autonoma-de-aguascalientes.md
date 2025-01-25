@@ -10,7 +10,7 @@
 1. _Peludos_ resolvió 7 problemas y obtuvo el lugar #1 (100%) en The 2014 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #110 (14%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Peludos_ resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2012 Mexico & Central America Regional Contest
-1. _CALTECH (Calvillo Institute of Technology)_ resolvió 16 problemas y obtuvo el lugar #10 (99%) en The 2024 ICPC Gran Premio de Mexico
+1. _CALTECH (Calvillo Institute of Technology)_ resolvió 4 problemas y obtuvo el lugar #13 (99%) en The 2024 ICPC Mexico Finals
 1. _Leulz_ resolvió 4 problemas y obtuvo el lugar #7 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _cagUAA++_ resolvió 4 problemas y obtuvo el lugar #15 (98%) en The 2020 ICPC Mexico Finals
 1. _Gallos_ resolvió 3 problemas y obtuvo el lugar #25 (98%) en The 2022 ICPC Mexico Finals
@@ -24,7 +24,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **40** | **97** | **122** |
+| **Total** | **2** | **0** | **42** | **97** | **122** |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
@@ -41,7 +41,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 3 | 3 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
 
 ### 2005-2006
 
@@ -112,33 +112,33 @@
 1. #76 _JalAgs_ (Clasificatorio)
 1. #101 _Nac-OS_ (Clasificatorio)
 1. #108 _BUILDERS_ (Clasificatorio)
-1. #108 _Baticholos_ (Clasificatorio)
-1. #108 _Gates-Jobs_ (Clasificatorio)
+1. #108 _Los Gorrudos Z_ (Clasificatorio)
+1. #108 _Master program_ (Clasificatorio)
 1. #108 _LECK'S_ (Clasificatorio)
 1. #108 _Las papas_ (Clasificatorio)
-1. #108 _Los Gorrudos Z_ (Clasificatorio)
-1. #108 _Los Omares_ (Clasificatorio)
-1. #108 _Master program_ (Clasificatorio)
-1. #108 _Motoloko_ (Clasificatorio)
-1. #108 _SiameseFightFish_ (Clasificatorio)
-1. #108 _The Wave_ (Clasificatorio)
 1. #108 _UAA pos_ (Clasificatorio)
+1. #108 _Baticholos_ (Clasificatorio)
+1. #108 _SiameseFightFish_ (Clasificatorio)
+1. #108 _Gates-Jobs_ (Clasificatorio)
+1. #108 _Motoloko_ (Clasificatorio)
+1. #108 _Los Omares_ (Clasificatorio)
+1. #108 _The Wave_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #31 _Nac-OS_ (Regional)
 1. #56 _Chinchanpu_ (Regional)
 1. #114 _hidrorayos_ (Clasificatorio)
-1. #121 _BIGUAA_ (Clasificatorio)
-1. #121 _Comegalletas_ (Clasificatorio)
-1. #121 _Jalags_ (Clasificatorio)
-1. #121 _LASTeam_ (Clasificatorio)
-1. #121 _Los Pelones de Breizers_ (Clasificatorio)
-1. #121 _Los Tiempo Límite Excedido_ (Clasificatorio)
 1. #121 _New Tesla_ (Clasificatorio)
+1. #121 _LASTeam_ (Clasificatorio)
 1. #121 _Rabano_ (Clasificatorio)
-1. #121 _Tesla_ (Clasificatorio)
+1. #121 _BIGUAA_ (Clasificatorio)
+1. #121 _Jalags_ (Clasificatorio)
 1. #121 _jaguaar_ (Clasificatorio)
+1. #121 _Los Tiempo Límite Excedido_ (Clasificatorio)
+1. #121 _Tesla_ (Clasificatorio)
+1. #121 _Los Pelones de Breizers_ (Clasificatorio)
+1. #121 _Comegalletas_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -155,8 +155,8 @@
 1. #291 _Server Not Found_ (Clasificatorio)
 1. #312 _Dinamita_ (Clasificatorio)
 1. #333 _Hyper X_ (Clasificatorio)
-1. #405 _Los judas Iscariote_ (Clasificatorio)
 1. #405 _jaguaar_ (Clasificatorio)
+1. #405 _Los judas Iscariote_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -209,14 +209,14 @@
 
 ### 2024-2025
 
-1. #10 _CALTECH (Calvillo Institute of Technology)_ (Clasificatorio)
-1. #106 _Crustáceo Cascarudo_ (Clasificatorio)
+1. #13 _CALTECH (Calvillo Institute of Technology)_ (Regional)
+1. #57 _Crustáceo Cascarudo_ (Regional)
 1. #274 _HoneyCrisps_ (Clasificatorio)
 1. #296 _Chotitas_ (Clasificatorio)
-1. #482 _Montoalrey_ (Clasificatorio)
+1. #482 _include<gallos>_ (Clasificatorio)
 1. #482 _Null&Void_ (Clasificatorio)
 1. #482 _Roosters_ (Clasificatorio)
-1. #482 _include<gallos>_ (Clasificatorio)
+1. #482 _Montoalrey_ (Clasificatorio)
 
 
 

@@ -14,8 +14,8 @@
 1. _bool basaur_ resolvió 2 problemas y obtuvo el lugar #19 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _int ensos;_ resolvió 4 problemas y obtuvo el lugar #28 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Clfies_ resolvió 4 problemas y obtuvo el lugar #15 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _NPCs_ resolvió 3 problemas y obtuvo el lugar #55 (95%) en The 2024 ICPC Mexico Finals
 1. _Gekko_ resolvió 8 problemas y obtuvo el lugar #63 (95%) en Gran Premio de Mexico 2019
-1. _char izard;_ resolvió 8 problemas y obtuvo el lugar #67 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **0** | **22** | **67** | **79** |
+| **Total** | **1** | **0** | **24** | **67** | **79** |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 6 | 0 | 6 |
 | [2011-2012](#2011-2012) | 1 | 0 | 2 | 0 | 2 |
@@ -38,7 +38,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 10 | 10 |
 
 ### 2008-2009
 
@@ -52,8 +52,8 @@
 1. #52 (#18 de ITESM) _Unicoders_ (Regional)
 1. #94 (#27 de ITESM) _Los bien vestidos_ (Regional)
 1. #100 (#29 de ITESM) _Los3ReyesMagos_ (Regional)
-1. #156 (#35 de ITESM) _Aguilas_ (Regional)
 1. #156 (#35 de ITESM) _ICE_ (Regional)
+1. #156 (#35 de ITESM) _Aguilas_ (Regional)
 
 ### 2011-2012
 
@@ -133,8 +133,8 @@
 
 1. #136 (#24 de ITESM) _Programadioses_ (Clasificatorio)
 1. #188 (#39 de ITESM) _Océano Atlántico_ (Clasificatorio)
-1. #226 (#45 de ITESM) _Mexastech_ (Clasificatorio)
 1. #226 (#45 de ITESM) _Patos de Hule_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Mexastech_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -143,8 +143,8 @@
 1. #304 (#45 de ITESM) _Robotics.py_ (Clasificatorio)
 1. #364 (#54 de ITESM) _Ionicos_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Ajolotes_ (Clasificatorio)
-1. #382 (#55 de ITESM) _MonkiTeam_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Patos de Hule_ (Clasificatorio)
+1. #382 (#55 de ITESM) _MonkiTeam_ (Clasificatorio)
 1. #382 (#55 de ITESM) _TecByters.cpp_ (Clasificatorio)
 
 ### 2023-2024
@@ -154,15 +154,15 @@
 
 ### 2024-2025
 
-1. #77 (#15 de ITESM) _NPCs_ (Clasificatorio)
-1. #82 (#17 de ITESM) _Teorema del Grafo Euleriano_ (Clasificatorio)
+1. #55 (#10 de ITESM) _NPCs_ (Regional)
+1. #118 (#20 de ITESM) _Teorema del Grafo Euleriano_ (Regional)
 1. #130 (#23 de ITESM) _DoSattack_ (Clasificatorio)
 1. #132 (#25 de ITESM) _Cheddarini_ (Clasificatorio)
 1. #218 (#36 de ITESM) _Array of Borregos_ (Clasificatorio)
 1. #270 (#42 de ITESM) _Fanyezoiel_ (Clasificatorio)
 1. #482 (#69 de ITESM) _DevsInDev_ (Clasificatorio)
-1. #482 (#69 de ITESM) _Permanganato de potasio_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Roblos_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Permanganato de potasio_ (Clasificatorio)
 1. #482 (#69 de ITESM) _W++_ (Clasificatorio)
 
 

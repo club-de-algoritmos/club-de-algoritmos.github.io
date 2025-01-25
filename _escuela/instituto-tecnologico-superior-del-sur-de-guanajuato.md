@@ -13,10 +13,10 @@
 1. _Hugs for Bugs_ resolvió 3 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Mexico Finals
 1. _Javamonos_ resolvió 3 problemas y obtuvo el lugar #20 (98%) en The 2022 ICPC Mexico Finals
 1. _Another Day, another AC_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2019 ICPC Mexico Finals
+1. _Los EspinosOS_ resolvió 4 problemas y obtuvo el lugar #26 (98%) en The 2024 ICPC Mexico Finals
 1. _Laughing Coffee_ resolvió 4 problemas y obtuvo el lugar #11 (97%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _ITSUR MIX LANG COFFEE_ resolvió 4 problemas y obtuvo el lugar #14 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Los EspinosOS_ resolvió 9 problemas y obtuvo el lugar #34 (97%) en The 2024 ICPC Gran Premio de Mexico
-1. _DAJ_ resolvió 11 problemas y obtuvo el lugar #37 (97%) en The 2024 ICPC Gran Premio de Mexico
+1. _ITSUR-MIXLANG CODERS_ resolvió 3 problemas y obtuvo el lugar #8 (96%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -24,7 +24,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **29** | **211** | **219** |
+| **Total** | **2** | **0** | **33** | **211** | **219** |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -39,7 +39,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 16 | 16 |
 | [2022-2023](#2022-2023) | 0 | 0 | 3 | 29 | 29 |
 | [2023-2024](#2023-2024) | 0 | 0 | 4 | 20 | 20 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 18 | 18 |
+| [2024-2025](#2024-2025) | 0 | 0 | 4 | 18 | 18 |
 
 ### 2010-2011
 
@@ -91,18 +91,18 @@
 1. #83 (#15 de TecNM) _Brave System_ (Regional)
 1. #96 (#17 de TecNM) _X-Coders_ (Clasificatorio)
 1. #99 (#18 de TecNM) _EUREKA.EXE_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Cadmus_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Fenix Bit_ (Clasificatorio)
-1. #121 (#22 de TecNM) _KARASUNO_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Kids-Itsur_ (Clasificatorio)
-1. #121 (#22 de TecNM) _LOS ETERNOS_ (Clasificatorio)
-1. #121 (#22 de TecNM) _MGM++_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Natsu_ (Clasificatorio)
-1. #121 (#22 de TecNM) _No Vodka No Life_ (Clasificatorio)
-1. #121 (#22 de TecNM) _OREGORER_ (Clasificatorio)
-1. #121 (#22 de TecNM) _POJOS_ (Clasificatorio)
 1. #121 (#22 de TecNM) _The Winner Pattern_ (Clasificatorio)
+1. #121 (#22 de TecNM) _MGM++_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Kids-Itsur_ (Clasificatorio)
+1. #121 (#22 de TecNM) _KARASUNO_ (Clasificatorio)
+1. #121 (#22 de TecNM) _POJOS_ (Clasificatorio)
+1. #121 (#22 de TecNM) _OREGORER_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Cadmus_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Natsu_ (Clasificatorio)
 1. #121 (#22 de TecNM) _WRANDOLOGOS_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Fenix Bit_ (Clasificatorio)
+1. #121 (#22 de TecNM) _No Vodka No Life_ (Clasificatorio)
+1. #121 (#22 de TecNM) _LOS ETERNOS_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -123,11 +123,11 @@
 1. #350 (#77 de TecNM) _Propapu_ (Clasificatorio)
 1. #367 (#85 de TecNM) _Kuhaku_ (Clasificatorio)
 1. #392 (#92 de TecNM) _Los sacos de abono_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Fenix Bit_ (Clasificatorio)
 1. #405 (#97 de TecNM) _POJOS_ (Clasificatorio)
-1. #405 (#97 de TecNM) _PPPalvC_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Team Fire_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Fenix Bit_ (Clasificatorio)
 1. #405 (#97 de TecNM) _The developer's team_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Team Fire_ (Clasificatorio)
+1. #405 (#97 de TecNM) _PPPalvC_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Titan Code_ (Clasificatorio)
 
 ### 2018-2019
@@ -166,24 +166,24 @@
 1. #226 (#39 de TecNM) _los carnales :''v_ (Clasificatorio)
 1. #230 (#41 de TecNM) _TLE Not Found_ (Clasificatorio)
 1. #267 (#49 de TecNM) _Sacos de Abono_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Atheris_ (Clasificatorio)
-1. #382 (#100 de TecNM) _EABMODEL_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Ecorp_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Fuerza Bruta_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Amigos X_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Cantaritos.exe_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Machines_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Papus_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Supercalifragilisticoespialidosos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Tortugos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los x-men_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Lupita's_ (Clasificatorio)
 1. #382 (#100 de TecNM) _OLYMPUS_ (Clasificatorio)
-1. #382 (#100 de TecNM) _QUESADILLAS++_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Testigos de German_ (Clasificatorio)
-1. #382 (#100 de TecNM) _The Gamers Fenix_ (Clasificatorio)
-1. #382 (#100 de TecNM) _W#0_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Fuerza Bruta_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Supercalifragilisticoespialidosos_ (Clasificatorio)
 1. #382 (#100 de TecNM) _X-FORCE_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Papus_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Cantaritos.exe_ (Clasificatorio)
+1. #382 (#100 de TecNM) _W#0_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Tortugos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Amigos X_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Testigos de German_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Atheris_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los x-men_ (Clasificatorio)
+1. #382 (#100 de TecNM) _QUESADILLAS++_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Lupita's_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Machines_ (Clasificatorio)
+1. #382 (#100 de TecNM) _EABMODEL_ (Clasificatorio)
+1. #382 (#100 de TecNM) _The Gamers Fenix_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Ecorp_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -197,20 +197,20 @@
 1. #314 (#47 de TecNM) _BAM_ (Clasificatorio)
 1. #332 (#55 de TecNM) _Tech Squadron_ (Clasificatorio)
 1. #349 (#64 de TecNM) _akatsuki_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Astralis_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Bases fundamentadas_ (Clasificatorio)
-1. #351 (#65 de TecNM) _CLAYS.bat_ (Clasificatorio)
-1. #351 (#65 de TecNM) _CRIKEROS_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Code Breakers_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Code Killers_ (Clasificatorio)
-1. #351 (#65 de TecNM) _El Triángulo del conocimiento_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Equipo dinamita_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Espartanos_ (Clasificatorio)
-1. #351 (#65 de TecNM) _F.R.1.3.N.S_ (Clasificatorio)
-1. #351 (#65 de TecNM) _NoShutDown_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Oxidados_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Panaderos con el pan_ (Clasificatorio)
+1. #351 (#65 de TecNM) _NoShutDown_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Espartanos_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CLAYS.bat_ (Clasificatorio)
+1. #351 (#65 de TecNM) _F.R.1.3.N.S_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Code Killers_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Program Rangers_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Equipo dinamita_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Astralis_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CRIKEROS_ (Clasificatorio)
+1. #351 (#65 de TecNM) _El Triángulo del conocimiento_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Bases fundamentadas_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Code Breakers_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Panaderos con el pan_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -223,20 +223,20 @@
 1. #158 (#18 de TecNM) _Los Cracks_ (Clasificatorio)
 1. #189 (#22 de TecNM) _Time limit exceeded_ (Clasificatorio)
 1. #224 (#35 de TecNM) _Ultra Magnus Team_ (Clasificatorio)
-1. #226 (#37 de TecNM) _CLAY_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Cartel Rinos 217  _ (Clasificatorio)
 1. #226 (#37 de TecNM) _Code PAM_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Ándale gordo_ (Clasificatorio)
+1. #226 (#37 de TecNM) _CLAY_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Dragon_power_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Cartel Rinos 217  _ (Clasificatorio)
 1. #226 (#37 de TecNM) _Prodigios del c++_ (Clasificatorio)
 1. #226 (#37 de TecNM) _hola;_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Ándale gordo_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #19 (#2 de TecNM) _Hugs for Bugs_ (Regional)
 1. #20 (#3 de TecNM) _Javamonos_ (Regional)
-1. #47 (#6 de TecNM) _La remontada de los picateclas_ (Clasificatorio)
 1. #54 (#5 de TecNM) _Team-Biriche_ (Regional)
+1. #47 (#6 de TecNM) _La remontada de los picateclas_ (Clasificatorio)
 1. #80 (#9 de TecNM) _Krakatoa_ (Clasificatorio)
 1. #107 (#12 de TecNM) _#include <ancedros>_ (Clasificatorio)
 1. #119 (#16 de TecNM) _Win2 Carnitas Karmalienses_ (Clasificatorio)
@@ -250,17 +250,17 @@
 1. #317 (#60 de TecNM) _Los UwU's_ (Clasificatorio)
 1. #369 (#73 de TecNM) _BlackBurn_ (Clasificatorio)
 1. #372 (#75 de TecNM) _AXJUNI_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CodigoShelby_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los padrinos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los santaniyas_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Pandora box++;_ (Clasificatorio)
 1. #382 (#83 de TecNM) _011 System Engineers_ (Clasificatorio)
 1. #382 (#83 de TecNM) _ChimiChurriS_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Code Killer_ (Clasificatorio)
-1. #382 (#83 de TecNM) _CodigoShelby_ (Clasificatorio)
-1. #382 (#83 de TecNM) _JGA_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los padrinos_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los santaniyas_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Machine Learning_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Movimento naranja_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JGA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Machine Learning_ (Clasificatorio)
 1. #382 (#83 de TecNM) _New Desire_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Pandora box++;_ (Clasificatorio)
 1. #382 (#83 de TecNM) _sICPuede_ (Clasificatorio)
 
 ### 2023-2024
@@ -288,23 +288,23 @@
 
 ### 2024-2025
 
-1. #34 (#4 de TecNM) _Los EspinosOS_ (Clasificatorio)
-1. #37 (#5 de TecNM) _DAJ_ (Clasificatorio)
+1. #26 (#3 de TecNM) _Los EspinosOS_ (Regional)
+1. #51 (#6 de TecNM) _DAJ_ (Regional)
+1. #53 (#7 de TecNM) _Como_ (Regional)
+1. #64 (#8 de TecNM) _404 not found_ (Regional)
 1. #53 (#7 de TecNM) _ITsurus_ (Clasificatorio)
-1. #54 (#8 de TecNM) _Como_ (Clasificatorio)
 1. #120 (#15 de TecNM) _AnythingButWA_ (Clasificatorio)
 1. #124 (#17 de TecNM) _WAOUS TEAM_ (Clasificatorio)
 1. #154 (#29 de TecNM) _Nahuales Swifties_ (Clasificatorio)
 1. #179 (#32 de TecNM) _CodigoCompartir_ (Clasificatorio)
 1. #191 (#35 de TecNM) _Los piratas del pseudo código _ (Clasificatorio)
-1. #379 (#83 de TecNM) _404 not found_ (Clasificatorio)
-1. #482 (#114 de TecNM) _C mas magos_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Cagua++_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Halcones_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Los ABC_ (Clasificatorio)
 1. #482 (#114 de TecNM) _MONDONGO_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Onslaught_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Pecesuelos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _C mas magos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Halcones_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los ABC_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Cagua++_ (Clasificatorio)
 1. #482 (#114 de TecNM) _vbrd's azu?itos_ (Clasificatorio)
 
 
