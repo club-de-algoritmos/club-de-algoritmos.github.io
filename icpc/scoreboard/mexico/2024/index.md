@@ -4,4 +4,4 @@
 - [Segunda fecha](segunda_fecha)
 - [Tercera fecha](tercera_fecha)
 - [Repechaje](repechaje)
-- Final regional: Pendiente
+- [Final regional](regional)
