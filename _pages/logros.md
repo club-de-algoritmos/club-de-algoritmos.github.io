@@ -18,6 +18,7 @@ ICPC 2021-2022.
 TecNM 2022, en lugares #3 y #7.
 - El IT Culiacán vuelve a clasificar un equipo a la final de México del ICPC
 2022-2023.
+- El IT Culiacán consigue los puestos #3 y #7 en el Coding Cup TecNM 2022.
 
 ## 2023
 
@@ -30,3 +31,16 @@ para clubes de programación de omegaUp) está conformado por solo miembros
 del Club de Algoritmos de Sinaloa.
 - El IT Culiacán logra posicionarse en los lugares #13 y #30 en la final de
 México del ICPC 2023-2024.
+- El IT Culiacán consigue los puestos #1, #2 y #5 en el Coding Cup TecNM 2023,
+siendo campeón por primera vez.
+
+## 2024
+
+- El IT Culiacán logra el lugar #4 del Gran Premio de México del ICPC 2024,
+el más alto en su historia.
+- El IT Culiacán clasifica a tres equipos a la final de México del ICPC
+2024-2025, nuevo récord histórico.
+- El FIMAZ clasifica por primera vez en su historia a la final de México del ICPC
+2024-2025.
+- El IT Culiacán consigue los puestos #1, #2 y #6 en el Coding Cup TecNM 2024,
+logrando ser bicampeón.
