@@ -5,3 +5,4 @@
 - [Tercera fecha](tercera_fecha)
 - [Repechaje](repechaje)
 - [Final regional](regional)
+- [Campeonato LATAM: Programadores de América](campeonato)
