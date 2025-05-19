@@ -6920,23 +6920,10 @@
       "team": {
         "name": "Javalimos",
         "school": "Instituto Tecnologico de la Laguna",
-        "codeforces_id": 131040,
-        "members": [
-          {
-            "codeforces_username": "ArturoDiazZamudio",
-            "name": "Arturo Diaz",
-            "rating": 1103,
-            "max_rating": 1204
-          },
-          {
-            "codeforces_username": "Karyme_Nava",
-            "name": "Karyme Nava",
-            "rating": 1477,
-            "max_rating": 1477
-          }
-        ],
-        "rating": 1510,
-        "max_rating": 1530
+        "codeforces_id": null,
+        "members": [],
+        "rating": null,
+        "max_rating": null
       },
       "rank": 145,
       "total_solved": 3,
@@ -14461,29 +14448,10 @@
       "team": {
         "name": "Runtime Terror",
         "school": "CETYS Universidad",
-        "codeforces_id": 169486,
-        "members": [
-          {
-            "codeforces_username": "BreakingGood",
-            "name": "Datha Rishyanth",
-            "rating": 1366,
-            "max_rating": 1443
-          },
-          {
-            "codeforces_username": "Ved",
-            "name": "Ved prakash Dhaka",
-            "rating": 1556,
-            "max_rating": 1697
-          },
-          {
-            "codeforces_username": "xtreme_sort",
-            "name": "Yashaswi Duggirala",
-            "rating": 1415,
-            "max_rating": 1415
-          }
-        ],
-        "rating": 1695,
-        "max_rating": 1791
+        "codeforces_id": null,
+        "members": [],
+        "rating": null,
+        "max_rating": null
       },
       "rank": 357,
       "total_solved": 2,
@@ -16678,29 +16646,10 @@
       "team": {
         "name": "CtrlZ",
         "school": "Instituto Tecnologico de Nuevo Leon",
-        "codeforces_id": 68170,
-        "members": [
-          {
-            "codeforces_username": "Isanchez_Aguilar",
-            "name": "Isaac Sanchez Aguilar",
-            "rating": 1490,
-            "max_rating": 1490
-          },
-          {
-            "codeforces_username": "Jose_Juan__SE",
-            "name": "Jose Juan Suarez Elizalde",
-            "rating": 1492,
-            "max_rating": 1492
-          },
-          {
-            "codeforces_username": "Kath_Rodagui",
-            "name": "Kathia Rodriguez Aguilar",
-            "rating": 1276,
-            "max_rating": 1408
-          }
-        ],
-        "rating": 1674,
-        "max_rating": 1701
+        "codeforces_id": null,
+        "members": [],
+        "rating": null,
+        "max_rating": null
       },
       "rank": 431,
       "total_solved": 1,
