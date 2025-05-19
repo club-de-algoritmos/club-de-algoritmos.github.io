@@ -1,0 +1,106 @@
+.scoreboard .team-container {
+    display: flex;
+    justify-content: flex-end;
+    width: auto;
+}
+
+.scoreboard th {
+    top: 56px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.scoreboard .team-member {
+    padding-left: 10px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.scoreboard .team-rank {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    margin: 4px 8px;
+}
+
+.scoreboard .team-name {
+    display: inline-block;
+    max-width: 500px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.scoreboard .fas {
+    padding-right: 3px;
+}
+
+.team-member.cf-unranked {
+    font-weight: normal;
+}
+.team-member.cf-newbie {
+    color: rgb(128, 128, 128);
+}
+.team-member.cf-pupil {
+    color: rgb(0, 128, 0);
+}
+.team-member.cf-specialist {
+    color: rgb(3, 168, 158);
+}
+.team-member.cf-expert {
+    color: rgb(0, 0, 255);
+}
+.team-member.cf-candidate-master {
+    color: rgb(170, 0, 170);
+}
+.team-member.cf-master {
+    color: rgb(170, 0, 170);
+}
+.team-member.cf-international-master {
+    color: rgb(170, 0, 170);
+}
+.team-member.cf-grandmaster {
+    color: rgb(255, 0, 0);
+}
+.team-member.cf-international-grandmaster {
+    color: rgb(255, 0, 0);
+}
+.team-member.cf-legendary-grandmaster {
+    color: rgb(255, 0, 0);
+}
+
+.team-rank.cf-unranked {
+}
+.team-rank.cf-newbie {
+    background-color: rgb(128, 128, 128);
+}
+.team-rank.cf-pupil {
+    background-color: rgb(0, 128, 0);
+}
+.team-rank.cf-specialist {
+    background-color: rgb(3, 168, 158);
+}
+.team-rank.cf-expert {
+    background-color: rgb(0, 0, 255);
+}
+.team-rank.cf-candidate-master {
+    background-color: rgb(170, 0, 170);
+}
+.team-rank.cf-master {
+    background-color: rgb(170, 0, 170);
+}
+.team-rank.cf-international-master {
+    background-color: rgb(170, 0, 170);
+}
+.team-rank.cf-grandmaster {
+    background-color: rgb(255, 0, 0);
+}
+.team-rank.cf-international-grandmaster {
+    background-color: rgb(255, 0, 0);
+}
+.team-rank.cf-legendary-grandmaster {
+    background-color: rgb(255, 0, 0);
+}
