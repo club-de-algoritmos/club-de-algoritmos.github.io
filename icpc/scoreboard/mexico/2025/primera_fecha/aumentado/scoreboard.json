@@ -149,23 +149,23 @@
           {
             "codeforces_username": "Alexbrii",
             "name": "Alex Brice\u00f1o",
-            "rating": 1755,
+            "rating": 1758,
             "max_rating": 2051
           },
           {
             "codeforces_username": "JorgeIbanez",
             "name": "Jorge Ibanez",
-            "rating": 1821,
+            "rating": 1823,
             "max_rating": 1849
           },
           {
             "codeforces_username": "Zawos",
             "name": "Isaac Estrella",
-            "rating": 1865,
+            "rating": 1854,
             "max_rating": 1936
           }
         ],
-        "rating": 2052,
+        "rating": 2049,
         "max_rating": 2195
       },
       "rank": 2,
@@ -234,18 +234,18 @@
           {
             "codeforces_username": "Remgagagali727",
             "name": "Rembrandt",
-            "rating": 1844,
-            "max_rating": 1844
+            "rating": 1845,
+            "max_rating": 1845
           },
           {
             "codeforces_username": "Jose_17",
             "name": null,
-            "rating": 1637,
-            "max_rating": 1637
+            "rating": 1557,
+            "max_rating": 1642
           }
         ],
-        "rating": 2041,
-        "max_rating": 2063
+        "rating": 2032,
+        "max_rating": 2064
       },
       "rank": 3,
       "total_solved": 8,
@@ -307,7 +307,7 @@
           {
             "codeforces_username": "Chaska",
             "name": "Victor Jaramillo",
-            "rating": 1572,
+            "rating": 1575,
             "max_rating": 1976
           },
           {
@@ -379,7 +379,7 @@
     },
     {
       "team": {
-        "name": "Mathgic",
+        "name": "M\u00e4thgic Cr\u00fce",
         "school": "Universidad de Guanajuato - CIMAT",
         "codeforces_id": 115131,
         "members": [
@@ -461,7 +461,7 @@
           {
             "codeforces_username": "10Peso",
             "name": "Ivan Olguin",
-            "rating": 1640,
+            "rating": 1569,
             "max_rating": 1797
           },
           {
@@ -471,7 +471,7 @@
             "max_rating": 1755
           }
         ],
-        "rating": 2154,
+        "rating": 2148,
         "max_rating": 2186
       },
       "rank": 6,
@@ -664,17 +664,17 @@
           {
             "codeforces_username": "Murinho",
             "name": "Adri\u00e1n Muro",
-            "rating": 1790,
+            "rating": 1793,
             "max_rating": 1861
           },
           {
             "codeforces_username": "LoganGD",
             "name": null,
-            "rating": 2080,
+            "rating": 2081,
             "max_rating": 2095
           }
         ],
-        "rating": 2209,
+        "rating": 2210,
         "max_rating": 2229
       },
       "rank": 9,
@@ -856,7 +856,7 @@
           {
             "codeforces_username": "lemaclo",
             "name": "Luis Mart\u00ednez",
-            "rating": 1446,
+            "rating": 1449,
             "max_rating": 1490
           },
           {
@@ -872,7 +872,7 @@
             "max_rating": 1966
           }
         ],
-        "rating": 1988,
+        "rating": 1989,
         "max_rating": 2003
       },
       "rank": 12,
@@ -1078,23 +1078,23 @@
           {
             "codeforces_username": "CarlosDaniel111",
             "name": "Carlos Daniel Beltran Medina",
-            "rating": 1599,
+            "rating": 1600,
             "max_rating": 1648
           },
           {
             "codeforces_username": "AngelOlan",
             "name": "Angel Eduardo Olan Castro",
-            "rating": 1679,
+            "rating": 1683,
             "max_rating": 1821
           },
           {
             "codeforces_username": "Javier_Rivera",
             "name": "Javier Rivera S\u00e1nchez",
-            "rating": 1314,
+            "rating": 1318,
             "max_rating": 1444
           }
         ],
-        "rating": 1812,
+        "rating": 1815,
         "max_rating": 1922
       },
       "rank": 15,
@@ -1550,11 +1550,11 @@
           {
             "codeforces_username": "pyoro",
             "name": "Alejandro Guajardo Caba",
-            "rating": 1493,
+            "rating": 1495,
             "max_rating": 1539
           }
         ],
-        "rating": 1682,
+        "rating": 1683,
         "max_rating": 1726
       },
       "rank": 23,
@@ -1619,11 +1619,11 @@
           {
             "codeforces_username": "leo_rc",
             "name": "Leonardo Rom\u00e1n Carrillo",
-            "rating": 1812,
+            "rating": 1814,
             "max_rating": 1826
           }
         ],
-        "rating": 1816,
+        "rating": 1818,
         "max_rating": 1831
       },
       "rank": 24,
@@ -1671,14 +1671,14 @@
           {
             "codeforces_username": "Jorgitox",
             "name": "Jorge Roberto Valdez Gamboa",
-            "rating": 1612,
-            "max_rating": 1612
+            "rating": 1615,
+            "max_rating": 1615
           },
           {
             "codeforces_username": "Maicol",
             "name": "Michael Alarc\u00f3n Carrillo",
-            "rating": 1286,
-            "max_rating": 1286
+            "rating": 1343,
+            "max_rating": 1343
           },
           {
             "codeforces_username": "Amuve",
@@ -1687,8 +1687,8 @@
             "max_rating": null
           }
         ],
-        "rating": 1654,
-        "max_rating": 1654
+        "rating": 1669,
+        "max_rating": 1669
       },
       "rank": 25,
       "total_solved": 5,
@@ -1849,7 +1849,7 @@
           {
             "codeforces_username": "TonyRusher",
             "name": "Jorge Antonio Juarez Leyva",
-            "rating": 1295,
+            "rating": 1297,
             "max_rating": 1358
           },
           {
@@ -1865,7 +1865,7 @@
             "max_rating": 899
           }
         ],
-        "rating": 1453,
+        "rating": 1454,
         "max_rating": 1486
       },
       "rank": 28,
@@ -2108,11 +2108,11 @@
           {
             "codeforces_username": "leneza_41",
             "name": "Leonardo N\u00fa\u00f1ez Zavala",
-            "rating": 1614,
+            "rating": 1548,
             "max_rating": 1701
           }
         ],
-        "rating": 1769,
+        "rating": 1739,
         "max_rating": 1816
       },
       "rank": 33,
@@ -2625,7 +2625,7 @@
           {
             "codeforces_username": "wisprfrog",
             "name": null,
-            "rating": 876,
+            "rating": 878,
             "max_rating": 1004
           }
         ],
@@ -2766,10 +2766,29 @@
       "team": {
         "name": "Rodrigo ya salte del equipo POR FAVOR",
         "school": "Universidad Aut\u00f3noma de San Luis Potosi",
-        "codeforces_id": null,
-        "members": [],
-        "rating": null,
-        "max_rating": null
+        "codeforces_id": 148477,
+        "members": [
+          {
+            "codeforces_username": "FHH2004",
+            "name": "Francisco Hernandez",
+            "rating": 1521,
+            "max_rating": 1608
+          },
+          {
+            "codeforces_username": "JuanCoder64",
+            "name": null,
+            "rating": 1115,
+            "max_rating": 1190
+          },
+          {
+            "codeforces_username": "rodrigofft",
+            "name": "Rodrigo Jimenez",
+            "rating": 1257,
+            "max_rating": 1417
+          }
+        ],
+        "rating": 1596,
+        "max_rating": 1700
       },
       "rank": 46,
       "total_solved": 4,
@@ -3066,7 +3085,7 @@
           {
             "codeforces_username": "JorgeMartinez",
             "name": "Jorge Eduardo Martinez Galindo",
-            "rating": 1122,
+            "rating": 1124,
             "max_rating": 1236
           }
         ],
@@ -3183,14 +3202,14 @@
           {
             "codeforces_username": "Soria.",
             "name": null,
-            "rating": 1366,
-            "max_rating": 1393
+            "rating": 1370,
+            "max_rating": 1396
           },
           {
             "codeforces_username": "MYS158",
             "name": null,
-            "rating": 1320,
-            "max_rating": 1320
+            "rating": 1324,
+            "max_rating": 1324
           },
           {
             "codeforces_username": "Empanak",
@@ -3199,8 +3218,8 @@
             "max_rating": 816
           }
         ],
-        "rating": 1503,
-        "max_rating": 1518
+        "rating": 1507,
+        "max_rating": 1521
       },
       "rank": 55,
       "total_solved": 4,
@@ -3423,17 +3442,17 @@
           {
             "codeforces_username": "Sam3",
             "name": "Jesus Samuel Zavala Ayala",
-            "rating": 1123,
+            "rating": 1134,
             "max_rating": 1183
           },
           {
             "codeforces_username": "Jab0n",
             "name": null,
-            "rating": 1172,
+            "rating": 1176,
             "max_rating": 1178
           }
         ],
-        "rating": 1357,
+        "rating": 1362,
         "max_rating": 1381
       },
       "rank": 61,
@@ -3522,12 +3541,12 @@
           {
             "codeforces_username": "San-43",
             "name": null,
-            "rating": 1456,
-            "max_rating": 1456
+            "rating": 1458,
+            "max_rating": 1458
           }
         ],
-        "rating": 1536,
-        "max_rating": 1536
+        "rating": 1537,
+        "max_rating": 1537
       },
       "rank": 63,
       "total_solved": 4,
@@ -3755,9 +3774,22 @@
         "name": "Tijuana Liga Emeequis (TLE)",
         "school": "Escuela Superior De Computo Instituto Politecnico Nacional",
         "codeforces_id": null,
-        "members": [],
-        "rating": null,
-        "max_rating": null
+        "members": [
+          {
+            "codeforces_username": "Aom_20",
+            "name": null,
+            "rating": 1471,
+            "max_rating": 1471
+          },
+          {
+            "codeforces_username": "miguel_ag315",
+            "name": null,
+            "rating": 1469,
+            "max_rating": 1469
+          }
+        ],
+        "rating": 1623,
+        "max_rating": 1623
       },
       "rank": 69,
       "total_solved": 4,
@@ -3879,23 +3911,23 @@
           {
             "codeforces_username": "Juan_Pa",
             "name": null,
-            "rating": 1091,
+            "rating": 1094,
             "max_rating": 1421
           },
           {
             "codeforces_username": "Cerritos",
             "name": "Jose Manuel Cerritos Jimenez",
-            "rating": 980,
+            "rating": 998,
             "max_rating": 1015
           },
           {
             "codeforces_username": "KarlaBelenF",
             "name": null,
-            "rating": 900,
+            "rating": 904,
             "max_rating": 1015
           }
         ],
-        "rating": 1238,
+        "rating": 1246,
         "max_rating": 1473
       },
       "rank": 72,
@@ -6136,8 +6168,8 @@
           {
             "codeforces_username": "Daf-get34",
             "name": "David Bernabe",
-            "rating": 1204,
-            "max_rating": 1204
+            "rating": 1216,
+            "max_rating": 1216
           },
           {
             "codeforces_username": "Dilosch03",
@@ -6148,12 +6180,12 @@
           {
             "codeforces_username": "polito93",
             "name": "Diego Colin",
-            "rating": 1229,
+            "rating": 1232,
             "max_rating": 1253
           }
         ],
-        "rating": 1371,
-        "max_rating": 1384
+        "rating": 1378,
+        "max_rating": 1389
       },
       "rank": 124,
       "total_solved": 3,
@@ -7055,7 +7087,7 @@
           {
             "codeforces_username": "julimichi",
             "name": "Julio Cesar Vivas Medina",
-            "rating": 950,
+            "rating": 952,
             "max_rating": 1248
           },
           {
@@ -7071,7 +7103,7 @@
             "max_rating": null
           }
         ],
-        "rating": 1151,
+        "rating": 1152,
         "max_rating": 1398
       },
       "rank": 149,
@@ -7518,7 +7550,7 @@
           {
             "codeforces_username": "Crocubott01",
             "name": null,
-            "rating": 1011,
+            "rating": 1024,
             "max_rating": 1129
           },
           {
@@ -7534,7 +7566,7 @@
             "max_rating": 628
           }
         ],
-        "rating": 1155,
+        "rating": 1161,
         "max_rating": 1224
       },
       "rank": 160,
@@ -8487,7 +8519,7 @@
           {
             "codeforces_username": "mr_atlas",
             "name": "Luis Oswaldo Rosas Carrera",
-            "rating": 851,
+            "rating": 852,
             "max_rating": 852
           }
         ],
@@ -16009,12 +16041,12 @@
           {
             "codeforces_username": "erick_sanat",
             "name": null,
-            "rating": null,
-            "max_rating": null
+            "rating": 369,
+            "max_rating": 369
           }
         ],
-        "rating": 0,
-        "max_rating": 0
+        "rating": 369,
+        "max_rating": 369
       },
       "rank": 408,
       "total_solved": 1,
