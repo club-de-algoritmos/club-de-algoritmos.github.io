@@ -1,0 +1,168 @@
+// $Id$
+table {
+	border: 1px solid #ccc; 
+	border-bottom: 0;
+	border-collapse: separate;
+	border-spacing: 5px;
+	width: 52.7em;
+}
+body {
+   font-family: verdana, arial, tahoma, sans-serif;
+}
+table th {
+	text-align: center;
+	background: #247eca;
+	color: white;
+	padding: 1px; 
+	border: outset 2px #eee8aa;
+	border-radius: 8px;
+}
+table td {
+	border-bottom: 1px solid #DDD; 
+	padding: .0em .0em .0em .5em;
+	border-radius: 8px;
+	text-align: center;
+}
+table tr td.rank {
+	background: transparent; 
+	border: 2px outset #ffffff;
+}
+table tr.gold td.rank {
+	background: #f9d923;
+	border: outset 2px #ffd700;
+}
+table tr.silver td.rank {
+	background: Silver;
+	border: 2px outset Silver;
+}
+table tr.bronze td.rank {
+	background: #c08e55; 
+	border: outset 2px #c9960c;
+}
+table td.name {
+	padding-left: 2em;
+}
+table th.name{
+	padding-left: 3em; 
+}
+table tr.even td {
+	background: #F7F7F7;
+}
+table tr td.r10 {
+	background: #e9d923;
+	border: 2px outset #DCDCDC;
+}
+table tr td.r9 {
+	background: #e1d963;
+	border: 2px outset #DCDCDC;
+}
+table tr td.r8 {
+	background: #DDD7AA;
+	border: 2px outset #DCDCDC;
+}
+table tr td.r7 {
+	background: #d2d2d2;
+	border: 2px outset #DCDCDC;
+}
+table tr td.r6 {
+	background: #DDCDBD;
+	border: 2px outset #DCDCDC;
+}
+table tr td.r5 {
+	background: #e6e6e6;
+	border: 2px outset #DCDCDC;
+}
+table tr td.r4 {
+	background: #eee;
+	border: 2px outset #f3f3f3;
+}
+table tr td.r3 {
+	background: #F7f7f7;
+	border: 2px outset #f7f7f7;
+}
+div.tail {
+       font-size: .8em;
+       color: #888;
+//width: 65.875em;
+width: 80%;
+// border: 1px solid #ccc;
+margin-left: auto;
+margin-right: auto;
+}
+span.right {
+     float: right;
+}
+
+// troy additions
+table tr.odd {
+        background-color: #0; color: black;
+}
+table tr.odd td.gold {
+	background-color: #f9d923;
+	border: outset 2px #ffd700;
+}
+table tr.odd td.silver {
+	background-color: Silver;
+	border: 2px outset Silver;
+}
+table tr.odd td.bronze {
+	background-color: #c08e55; 
+	border: outset 2px #c9960c;
+}
+table tr.odd td.highest {
+	background-color: #F0FFF0;
+}
+table tr.odd td.high {
+	background-color: #F0F0FF;
+}
+table tr.odd td.honors {
+	background-color: #FFF0FF;
+}
+table tr.even {
+        background-color: #EEEEFF; color: black;
+}
+table tr.even td.gold {
+	background-color: #f9d923;
+	border: outset 2px #ffd700;
+}
+table tr.even td.silver {
+	background-color: Silver;
+	border: 2px outset Silver;
+}
+table tr.even td.bronze {
+	background-color: #c08e55; 
+	border: outset 2px #c9960c;
+}
+table tr.even td.highest {
+	background-color: #E0F7E0;
+}
+table tr.even td.high {
+	background-color: #E0E0F7;
+}
+table tr.even td.honors {
+	background-color: #F7E0F7;
+}
+table tr td.yes {
+        background-color: #7fff7f; color: black;
+        text-align: center;
+}
+table tr td.firstYes {
+        background-color: #7fFF7f;
+  		background-image: radial-gradient(#0fff0f, #0c630f);
+		color: black;
+        text-align: center;
+}
+table tr td.pending {
+        background-color: #3e9ae9; color: black;
+        text-align: center;
+}
+table tr td.no {
+        background-color: #ff6060; color: black;
+        text-align: center;
+}
+table tr td.center {
+        text-align: center;
+}
+table tr td.right {
+        text-align: right;
+}

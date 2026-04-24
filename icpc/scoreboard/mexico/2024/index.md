@@ -6,3 +6,4 @@
 - [Repechaje](repechaje)
 - [Final regional](regional)
 - [Campeonato LATAM: Programadores de América](campeonato)
+- [Final mundial](final_mundial)
