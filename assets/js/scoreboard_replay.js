@@ -1,3 +1,57 @@
+const OVERLAY_ID = 'replay-loader-overlay'
+
+function showLoader() {
+  let overlay = document.getElementById(OVERLAY_ID);
+  if (overlay) {
+    return;
+  }
+
+  overlay = document.createElement('div');
+  overlay.id = OVERLAY_ID;
+
+  overlay.innerHTML = `
+    <div class="replay-spinner"></div>
+  `;
+
+  Object.assign(overlay.style, {
+    position: 'fixed',
+    top: 0,
+    left: 0,
+    width: '100%',
+    height: '100%',
+    background: 'white',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    zIndex: 9999,
+  });
+
+  const style = document.createElement('style');
+  style.innerHTML = `
+    .replay-spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid #ccc;
+      border-top: 4px solid #333;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  `;
+
+  document.head.appendChild(style);
+  document.documentElement.appendChild(overlay);
+}
+
+function hideLoader() {
+  const overlay = document.getElementById(OVERLAY_ID);
+  if (overlay) {
+    overlay.remove();
+  }
+}
+
 function formatTime(time) {
     const hours = Math.floor(time / 60);
     const minutes = time % 60;
@@ -279,6 +333,8 @@ function resetReplay() {
         if (time < 300) {
             filterScoreboard(time);
         }
+
+        hideLoader();
         return;
     }
 
@@ -297,4 +353,6 @@ if (!window.replay) {
         resetReplay();
       }
     }
+
+    showLoader();
 }
